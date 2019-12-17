@@ -1,0 +1,684 @@
+﻿Log file open, 11/21/19 00:16:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CombatSim
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.396956
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.091s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Games/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.11.21-06.16.04:379][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.21-06.16.04:379][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.21-06.16.04:386][  0]LogHAL: Display: Platform has ~ 16 GB [16964153344 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.21-06.16.04:386][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.11.21-06.16.04:386][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.21-06.16.04:386][  0]LogInit: Computer: DESKTOP-1DLMEOD
+[2019.11.21-06.16.04:386][  0]LogInit: User: Pratyush
+[2019.11.21-06.16.04:386][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.11.21-06.16.04:386][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.21-06.16.04:386][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.11.21-06.16.04:386][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.21-06.16.04:386][  0]LogMemory: Process Physical Memory: 101.95 MB used, 101.96 MB peak
+[2019.11.21-06.16.04:386][  0]LogMemory: Process Virtual Memory: 85.84 MB used, 85.84 MB peak
+[2019.11.21-06.16.04:386][  0]LogMemory: Physical Memory: 7835.15 MB used,  8343.13 MB free, 16178.28 MB total
+[2019.11.21-06.16.04:387][  0]LogMemory: Virtual Memory: 4640.72 MB used,  8343.13 MB free, 134217728.00 MB total
+[2019.11.21-06.16.04:406][  0]LogInit: Using OS detected language (en-US).
+[2019.11.21-06.16.04:406][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.21-06.16.04:407][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.21-06.16.04:706][  0]LogStreaming: Display: Took  0.301s to InitEngineTextLocalization.
+[2019.11.21-06.16.04:707][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.21-06.16.04:741][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.21-06.16.04:741][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.21-06.16.04:928][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.21-06.16.04:928][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.21-06.16.04:989][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2019.11.21-06.16.04:989][  0]LogD3D11RHI:       6052/0/8089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.11.21-06.16.05:001][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.11.21-06.16.05:001][  0]LogD3D11RHI:       128/0/8089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.11.21-06.16.05:003][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.21-06.16.05:003][  0]LogD3D11RHI:       0/0/8089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.21-06.16.05:003][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.21-06.16.05:033][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.21-06.16.05:033][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.21-06.16.05:033][  0]LogWindows: EnumDisplayDevices:
+[2019.11.21-06.16.05:033][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.11.21-06.16.05:033][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:1)
+[2019.11.21-06.16.05:033][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.11.21-06.16.05:034][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2019.11.21-06.16.05:034][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.11.21-06.16.05:034][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2019.11.21-06.16.05:034][  0]LogD3D11RHI:   Driver Version: 436.15 (internal:26.21.14.3615, unified:436.15)
+[2019.11.21-06.16.05:034][  0]LogD3D11RHI:      Driver Date: 8-24-2019
+[2019.11.21-06.16.05:034][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.11.21-06.16.05:073][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.21-06.16.05:088][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.21-06.16.05:091][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (../../../../Unreal_Projects/CombatSim/Intermediate/Shaders/WorkingDirectory/19716/).
+[2019.11.21-06.16.05:092][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/22iro/AppData/Local/Temp/UnrealShaderWorkingDir/F1A36D0E4A14536C44FCFCBD19BCEBBB/'.
+[2019.11.21-06.16.05:336][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.11.21-06.16.05:346][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.11.21-06.16.05:357][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.11.21-06.16.05:367][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.11.21-06.16.05:377][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.11.21-06.16.05:387][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.11.21-06.16.05:397][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.11.21-06.16.05:407][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.11.21-06.16.05:412][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.11.21-06.16.05:475][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.21-06.16.05:475][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.21-06.16.05:475][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.21-06.16.05:475][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.21-06.16.05:475][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.21-06.16.05:475][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.21-06.16.05:475][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.21-06.16.05:475][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.21-06.16.05:475][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.21-06.16.05:475][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.21-06.16.05:475][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.21-06.16.05:475][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.21-06.16.05:475][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.21-06.16.05:475][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.21-06.16.05:475][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.21-06.16.05:475][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.21-06.16.05:475][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.21-06.16.05:475][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.21-06.16.05:476][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.11.21-06.16.05:530][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.11.21-06.16.05:530][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.11.21-06.16.05:549][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.11.21-06.16.05:549][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.11.21-06.16.05:559][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.11.21-06.16.05:569][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.11.21-06.16.05:578][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.11.21-06.16.05:589][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.11.21-06.16.05:597][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.11.21-06.16.05:597][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.21-06.16.05:634][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.21-06.16.05:634][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.21-06.16.05:634][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.21-06.16.06:251][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.21-06.16.06:298][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/22iro/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.11.21-06.16.06:298][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/22iro/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.11.21-06.16.06:298][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Unreal_Projects/CombatSim/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.21-06.16.06:298][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.21-06.16.06:298][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Unreal_Projects/CombatSim/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.21-06.16.06:298][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.21-06.16.06:311][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.21-06.16.06:323][  0]LogDerivedDataCache: Using Local data cache path C:/Users/22iro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.21-06.16.06:323][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.21-06.16.06:323][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.21-06.16.06:339][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.21-06.16.06:340][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.21-06.16.06:341][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.21-06.16.06:404][  0]LogAssetRegistry: FAssetRegistry took 0.0255 seconds to start up
+[2019.11.21-06.16.06:659][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.21-06.16.06:761][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.11.21-06.16.06:763][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.11.21-06.16.06:763][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.21-06.16.06:763][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.21-06.16.06:763][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.11.21-06.16.06:779][  0]LogNetVersion: CombatSim 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3308291993)
+[2019.11.21-06.16.07:189][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.073973 seconds
+[2019.11.21-06.16.07:195][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.11.21-06.16.07:195][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.11.21-06.16.07:195][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.21-06.16.07:863][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.21-06.16.07:875][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.21-06.16.08:002][  0]SourceControl: Source control is disabled
+[2019.11.21-06.16.08:002][  0]SourceControl: Source control is disabled
+[2019.11.21-06.16.08:003][  0]SourceControl: Source control is disabled
+[2019.11.21-06.16.08:004][  0]SourceControl: Source control is disabled
+[2019.11.21-06.16.08:286][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.21-06.16.08:411][  0]LogOcInput: OculusInput pre-init called
+[2019.11.21-06.16.08:462][  0]LogEngine: Initializing Engine...
+[2019.11.21-06.16.08:463][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.21-06.16.08:464][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.11.21-06.16.08:464][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.11.21-06.16.08:464][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.11.21-06.16.08:464][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.11.21-06.16.08:650][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.21-06.16.08:660][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.21-06.16.08:690][  0]LogInit: XAudio2 using 'Speakers (Logitech G633 Gaming Headset)' : 6 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.11.21-06.16.08:731][  0]LogInit: FAudioDevice initialized.
+[2019.11.21-06.16.08:732][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.21-06.16.08:812][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/22iro/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.11.21-06.16.08:815][  0]LogInit: Texture streaming: Enabled
+[2019.11.21-06.16.08:828][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.21-06.16.08:840][  0]LogInit: Transaction tracking system initialized
+[2019.11.21-06.16.08:856][  0]BlueprintLog: New page: Editor Load
+[2019.11.21-06.16.08:908][  0]LocalizationService: Localization service is disabled
+[2019.11.21-06.16.08:963][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2019.11.21-06.16.08:964][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2019.11.21-06.16.08:964][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2019.11.21-06.16.09:403][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.21-06.16.09:403][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.21-06.16.09:403][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.11.21-06.16.09:403][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.11.21-06.16.09:403][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.11.21-06.16.09:403][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.11.21-06.16.09:403][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.11.21-06.16.09:493][  0]LogFileCache: Scanning file cache for directory 'D:/Games/Epic Games/Unreal_Projects/CombatSim/Content/' took 0.02s
+[2019.11.21-06.16.09:493][  0]SourceControl: Source control is disabled
+[2019.11.21-06.16.09:493][  0]Cmd: MAP LOAD FILE="../../../../Unreal_Projects/CombatSim/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.21-06.16.09:493][  0]LightingResults: New page: Lighting Build
+[2019.11.21-06.16.09:495][  0]MapCheck: New page: Map Check
+[2019.11.21-06.16.09:495][  0]LightingResults: New page: Lighting Build
+[2019.11.21-06.16.09:522][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/sk_bones_'
+[2019.11.21-06.16.09:522][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/sk_bones_' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/sk_ch_hro_Taicho_00_Sagiten.uasset.
+[2019.11.21-06.16.09:522][  0]LoadErrors: Error: /Game/ch_hm_TaichoSensei/sk_ch_hro_Taicho_00_Sagiten : Can't find file for asset. /Game/Materials_Master/Tools/sk_bones_
+[2019.11.21-06.16.09:526][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mf_gradient_color'
+[2019.11.21-06.16.09:526][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mf_gradient_color' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/Materials/mf_Sagiten.uasset.
+[2019.11.21-06.16.09:526][  0]LoadErrors: Error: /Game/ch_hm_TaichoSensei/Materials/mf_Sagiten : Can't find file for asset. /Game/Materials_Master/Tools/mf_gradient_color
+[2019.11.21-06.16.09:526][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_damage'
+[2019.11.21-06.16.09:526][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_damage' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/Materials/mf_Sagiten.uasset.
+[2019.11.21-06.16.09:526][  0]LoadErrors: Error: /Game/ch_hm_TaichoSensei/Materials/mf_Sagiten : Can't find file for asset. /Game/Materials_Master/Tools/mfu_damage
+[2019.11.21-06.16.09:526][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_fresnel'
+[2019.11.21-06.16.09:526][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_fresnel' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/Materials/mf_Sagiten.uasset.
+[2019.11.21-06.16.09:526][  0]LoadErrors: Error: /Game/ch_hm_TaichoSensei/Materials/mf_Sagiten : Can't find file for asset. /Game/Materials_Master/Tools/mfu_fresnel
+[2019.11.21-06.16.09:526][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_MacroVariation_wRedContrast'
+[2019.11.21-06.16.09:526][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_MacroVariation_wRedContrast' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/Materials/mf_Sagiten.uasset.
+[2019.11.21-06.16.09:526][  0]LoadErrors: Error: /Game/ch_hm_TaichoSensei/Materials/mf_Sagiten : Can't find file for asset. /Game/Materials_Master/Tools/mfu_MacroVariation_wRedContrast
+[2019.11.21-06.16.09:526][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_roughAdjust'
+[2019.11.21-06.16.09:526][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_roughAdjust' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/Materials/mf_Sagiten.uasset.
+[2019.11.21-06.16.09:527][  0]LoadErrors: Error: /Game/ch_hm_TaichoSensei/Materials/mf_Sagiten : Can't find file for asset. /Game/Materials_Master/Tools/mfu_roughAdjust
+[2019.11.21-06.16.09:532][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/_Textures/T_Perlin_Noise_M'
+[2019.11.21-06.16.09:532][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/_Textures/T_Perlin_Noise_M' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/Materials/mf_Sagiten.uasset.
+[2019.11.21-06.16.09:532][  0]LoadErrors: Error: /Game/ch_hm_TaichoSensei/Materials/mf_Sagiten : Can't find file for asset. /Game/Materials_Master/_Textures/T_Perlin_Noise_M
+[2019.11.21-06.16.09:533][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mf_gradient_color'
+[2019.11.21-06.16.09:533][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mf_gradient_color' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/Materials/mf_Sagiten.uasset.
+[2019.11.21-06.16.09:533][  0]LoadErrors: Error: /Game/ch_hm_TaichoSensei/Materials/mf_Sagiten : Can't find file for asset. /Game/Materials_Master/Tools/mf_gradient_color
+[2019.11.21-06.16.09:533][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_damage'
+[2019.11.21-06.16.09:533][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_damage' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/Materials/mf_Sagiten.uasset.
+[2019.11.21-06.16.09:533][  0]LoadErrors: Error: /Game/ch_hm_TaichoSensei/Materials/mf_Sagiten : Can't find file for asset. /Game/Materials_Master/Tools/mfu_damage
+[2019.11.21-06.16.09:533][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_fresnel'
+[2019.11.21-06.16.09:533][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_fresnel' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/Materials/mf_Sagiten.uasset.
+[2019.11.21-06.16.09:533][  0]LoadErrors: Error: /Game/ch_hm_TaichoSensei/Materials/mf_Sagiten : Can't find file for asset. /Game/Materials_Master/Tools/mfu_fresnel
+[2019.11.21-06.16.09:533][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_MacroVariation_wRedContrast'
+[2019.11.21-06.16.09:533][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_MacroVariation_wRedContrast' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/Materials/mf_Sagiten.uasset.
+[2019.11.21-06.16.09:533][  0]LoadErrors: Error: /Game/ch_hm_TaichoSensei/Materials/mf_Sagiten : Can't find file for asset. /Game/Materials_Master/Tools/mfu_MacroVariation_wRedContrast
+[2019.11.21-06.16.09:533][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_roughAdjust'
+[2019.11.21-06.16.09:534][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_roughAdjust' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/Materials/mf_Sagiten.uasset.
+[2019.11.21-06.16.09:534][  0]LoadErrors: Error: /Game/ch_hm_TaichoSensei/Materials/mf_Sagiten : Can't find file for asset. /Game/Materials_Master/Tools/mfu_roughAdjust
+[2019.11.21-06.16.09:534][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/_Textures/T_Perlin_Noise_M'
+[2019.11.21-06.16.09:534][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/_Textures/T_Perlin_Noise_M' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/Materials/mf_Sagiten.uasset.
+[2019.11.21-06.16.09:534][  0]LoadErrors: Error: /Game/ch_hm_TaichoSensei/Materials/mf_Sagiten : Can't find file for asset. /Game/Materials_Master/_Textures/T_Perlin_Noise_M
+[2019.11.21-06.16.09:536][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mf_gradient_color'
+[2019.11.21-06.16.09:536][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mf_gradient_color' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/Materials/m_sagiten_new.uasset.
+[2019.11.21-06.16.09:536][  0]LoadErrors: Error: /Game/ch_hm_TaichoSensei/Materials/m_sagiten_new : Can't find file for asset. /Game/Materials_Master/Tools/mf_gradient_color
+[2019.11.21-06.16.09:536][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_damage'
+[2019.11.21-06.16.09:536][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_damage' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/Materials/m_sagiten_new.uasset.
+[2019.11.21-06.16.09:536][  0]LoadErrors: Error: /Game/ch_hm_TaichoSensei/Materials/m_sagiten_new : Can't find file for asset. /Game/Materials_Master/Tools/mfu_damage
+[2019.11.21-06.16.09:536][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_fresnel'
+[2019.11.21-06.16.09:536][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_fresnel' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/Materials/m_sagiten_new.uasset.
+[2019.11.21-06.16.09:536][  0]LoadErrors: Error: /Game/ch_hm_TaichoSensei/Materials/m_sagiten_new : Can't find file for asset. /Game/Materials_Master/Tools/mfu_fresnel
+[2019.11.21-06.16.09:536][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_MacroVariation_wRedContrast'
+[2019.11.21-06.16.09:536][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_MacroVariation_wRedContrast' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/Materials/m_sagiten_new.uasset.
+[2019.11.21-06.16.09:536][  0]LoadErrors: Error: /Game/ch_hm_TaichoSensei/Materials/m_sagiten_new : Can't find file for asset. /Game/Materials_Master/Tools/mfu_MacroVariation_wRedContrast
+[2019.11.21-06.16.09:537][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_roughAdjust'
+[2019.11.21-06.16.09:537][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_roughAdjust' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/Materials/m_sagiten_new.uasset.
+[2019.11.21-06.16.09:537][  0]LoadErrors: Error: /Game/ch_hm_TaichoSensei/Materials/m_sagiten_new : Can't find file for asset. /Game/Materials_Master/Tools/mfu_roughAdjust
+[2019.11.21-06.16.09:537][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mf_gradient_color'
+[2019.11.21-06.16.09:537][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mf_gradient_color' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/Materials/m_sagiten_new.uasset.
+[2019.11.21-06.16.09:537][  0]LoadErrors: Error: /Game/ch_hm_TaichoSensei/Materials/m_sagiten_new : Can't find file for asset. /Game/Materials_Master/Tools/mf_gradient_color
+[2019.11.21-06.16.09:537][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_damage'
+[2019.11.21-06.16.09:537][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_damage' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/Materials/m_sagiten_new.uasset.
+[2019.11.21-06.16.09:537][  0]LoadErrors: Error: /Game/ch_hm_TaichoSensei/Materials/m_sagiten_new : Can't find file for asset. /Game/Materials_Master/Tools/mfu_damage
+[2019.11.21-06.16.09:537][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_fresnel'
+[2019.11.21-06.16.09:537][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_fresnel' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/Materials/m_sagiten_new.uasset.
+[2019.11.21-06.16.09:537][  0]LoadErrors: Error: /Game/ch_hm_TaichoSensei/Materials/m_sagiten_new : Can't find file for asset. /Game/Materials_Master/Tools/mfu_fresnel
+[2019.11.21-06.16.09:538][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_MacroVariation_wRedContrast'
+[2019.11.21-06.16.09:538][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_MacroVariation_wRedContrast' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/Materials/m_sagiten_new.uasset.
+[2019.11.21-06.16.09:538][  0]LoadErrors: Error: /Game/ch_hm_TaichoSensei/Materials/m_sagiten_new : Can't find file for asset. /Game/Materials_Master/Tools/mfu_MacroVariation_wRedContrast
+[2019.11.21-06.16.09:538][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_roughAdjust'
+[2019.11.21-06.16.09:538][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_roughAdjust' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/Materials/m_sagiten_new.uasset.
+[2019.11.21-06.16.09:538][  0]LoadErrors: Error: /Game/ch_hm_TaichoSensei/Materials/m_sagiten_new : Can't find file for asset. /Game/Materials_Master/Tools/mfu_roughAdjust
+[2019.11.21-06.16.09:563][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/sk_bones_'
+[2019.11.21-06.16.09:563][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/sk_bones_' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/sk_ch_hro_Taicho_00_Sagiten.uasset.
+[2019.11.21-06.16.09:563][  0]LoadErrors: Error: /Game/ch_hm_TaichoSensei/sk_ch_hro_Taicho_00_Sagiten : Can't find file for asset. /Game/Materials_Master/Tools/sk_bones_
+[2019.11.21-06.16.09:712][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_fresnel'
+[2019.11.21-06.16.09:712][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_fresnel.mfu_fresnel Referenced by MaterialExpressionMaterialFunctionCall_1
+[2019.11.21-06.16.09:712][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_fresnel' while loading NULL.
+[2019.11.21-06.16.09:712][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_fresnel.mfu_fresnel Referenced by MaterialExpressionMaterialFunctionCall_1
+[2019.11.21-06.16.09:712][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_damage'
+[2019.11.21-06.16.09:712][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_damage.mfu_damage Referenced by MaterialExpressionMaterialFunctionCall_10
+[2019.11.21-06.16.09:712][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_damage' while loading NULL.
+[2019.11.21-06.16.09:712][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_damage.mfu_damage Referenced by MaterialExpressionMaterialFunctionCall_10
+[2019.11.21-06.16.09:713][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_MacroVariation_wRedContrast'
+[2019.11.21-06.16.09:713][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_MacroVariation_wRedContrast.mfu_MacroVariation_wRedContrast Referenced by MaterialExpressionMaterialFunctionCall_11
+[2019.11.21-06.16.09:713][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_MacroVariation_wRedContrast' while loading NULL.
+[2019.11.21-06.16.09:713][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_MacroVariation_wRedContrast.mfu_MacroVariation_wRedContrast Referenced by MaterialExpressionMaterialFunctionCall_11
+[2019.11.21-06.16.09:713][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_roughAdjust'
+[2019.11.21-06.16.09:713][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_roughAdjust.mfu_roughAdjust Referenced by MaterialExpressionMaterialFunctionCall_13
+[2019.11.21-06.16.09:713][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_roughAdjust' while loading NULL.
+[2019.11.21-06.16.09:713][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_roughAdjust.mfu_roughAdjust Referenced by MaterialExpressionMaterialFunctionCall_13
+[2019.11.21-06.16.09:713][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mf_gradient_color'
+[2019.11.21-06.16.09:713][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mf_gradient_color.mf_gradient_color Referenced by MaterialExpressionMaterialFunctionCall_15
+[2019.11.21-06.16.09:713][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mf_gradient_color' while loading NULL.
+[2019.11.21-06.16.09:713][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mf_gradient_color.mf_gradient_color Referenced by MaterialExpressionMaterialFunctionCall_15
+[2019.11.21-06.16.09:714][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_damage'
+[2019.11.21-06.16.09:714][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_damage.mfu_damage Referenced by MaterialExpressionMaterialFunctionCall_7
+[2019.11.21-06.16.09:714][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_damage' while loading NULL.
+[2019.11.21-06.16.09:714][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_damage.mfu_damage Referenced by MaterialExpressionMaterialFunctionCall_7
+[2019.11.21-06.16.09:714][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_damage'
+[2019.11.21-06.16.09:714][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_damage.mfu_damage Referenced by MaterialExpressionMaterialFunctionCall_8
+[2019.11.21-06.16.09:714][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_damage' while loading NULL.
+[2019.11.21-06.16.09:714][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_damage.mfu_damage Referenced by MaterialExpressionMaterialFunctionCall_8
+[2019.11.21-06.16.09:714][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_MacroVariation_wRedContrast'
+[2019.11.21-06.16.09:714][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_MacroVariation_wRedContrast.mfu_MacroVariation_wRedContrast Referenced by MaterialExpressionMaterialFunctionCall_9
+[2019.11.21-06.16.09:714][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_MacroVariation_wRedContrast' while loading NULL.
+[2019.11.21-06.16.09:714][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_MacroVariation_wRedContrast.mfu_MacroVariation_wRedContrast Referenced by MaterialExpressionMaterialFunctionCall_9
+[2019.11.21-06.16.09:715][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/_Textures/T_Perlin_Noise_M'
+[2019.11.21-06.16.09:715][  0]LoadErrors: Failed to load /Game/Materials_Master/_Textures/T_Perlin_Noise_M.T_Perlin_Noise_M Referenced by MaterialExpressionTextureSample_4
+[2019.11.21-06.16.09:715][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/_Textures/T_Perlin_Noise_M' while loading NULL.
+[2019.11.21-06.16.09:715][  0]LoadErrors: Failed to load /Game/Materials_Master/_Textures/T_Perlin_Noise_M.T_Perlin_Noise_M Referenced by MaterialExpressionTextureSample_4
+[2019.11.21-06.16.09:715][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_fresnel'
+[2019.11.21-06.16.09:715][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_fresnel.mfu_fresnel Referenced by m_sagiten_new
+[2019.11.21-06.16.09:715][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_fresnel' while loading NULL.
+[2019.11.21-06.16.09:715][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_fresnel.mfu_fresnel Referenced by m_sagiten_new
+[2019.11.21-06.16.09:715][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_damage'
+[2019.11.21-06.16.09:716][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_damage.mfu_damage Referenced by m_sagiten_new
+[2019.11.21-06.16.09:716][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_damage' while loading NULL.
+[2019.11.21-06.16.09:716][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_damage.mfu_damage Referenced by m_sagiten_new
+[2019.11.21-06.16.09:716][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_MacroVariation_wRedContrast'
+[2019.11.21-06.16.09:716][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_MacroVariation_wRedContrast.mfu_MacroVariation_wRedContrast Referenced by m_sagiten_new
+[2019.11.21-06.16.09:716][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_MacroVariation_wRedContrast' while loading NULL.
+[2019.11.21-06.16.09:716][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_MacroVariation_wRedContrast.mfu_MacroVariation_wRedContrast Referenced by m_sagiten_new
+[2019.11.21-06.16.09:716][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_roughAdjust'
+[2019.11.21-06.16.09:716][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_roughAdjust.mfu_roughAdjust Referenced by m_sagiten_new
+[2019.11.21-06.16.09:716][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_roughAdjust' while loading NULL.
+[2019.11.21-06.16.09:716][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_roughAdjust.mfu_roughAdjust Referenced by m_sagiten_new
+[2019.11.21-06.16.09:716][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mf_gradient_color'
+[2019.11.21-06.16.09:716][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mf_gradient_color.mf_gradient_color Referenced by m_sagiten_new
+[2019.11.21-06.16.09:716][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mf_gradient_color' while loading NULL.
+[2019.11.21-06.16.09:716][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mf_gradient_color.mf_gradient_color Referenced by m_sagiten_new
+[2019.11.21-06.16.09:718][  0]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/sk_bones_'
+[2019.11.21-06.16.09:718][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/sk_bones_.sk_bones_ Referenced by sk_ch_hro_Taicho_00_Sagiten
+[2019.11.21-06.16.09:718][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/sk_bones_' while loading NULL.
+[2019.11.21-06.16.09:718][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/sk_bones_.sk_bones_ Referenced by sk_ch_hro_Taicho_00_Sagiten
+[2019.11.21-06.16.09:784][  0]LogMaterial: Display: Missing cached shader map for material m_sagiten_new, compiling. 
+[2019.11.21-06.16.09:785][  0]LogMaterial: Warning: D:\Games\Epic Games\Unreal_Projects\CombatSim\Content\ch_hm_TaichoSensei\Materials\m_sagiten_new.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.21-06.16.09:785][  0]LogMaterial: 	Function mf_Sagiten: Missing Material Function
+[2019.11.21-06.16.09:785][  0]LogMaterial: 	Function mf_Sagiten: (Node MakeMaterialAttributes) Error on property Normal
+[2019.11.21-06.16.09:785][  0]LogMaterial: 	Function mf_Sagiten: (Node TextureSample) Texture Sample> Missing input texture
+[2019.11.21-06.16.09:785][  0]LogMaterial: 	Function mf_Sagiten: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2019.11.21-06.16.09:785][  0]LogMaterial: 	Function mf_Sagiten: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.11.21-06.16.09:785][  0]LogMaterial: 	Function mf_Sagiten: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.11.21-06.16.09:785][  0]LogMaterial: 	Function mf_Sagiten: (Node If) If input A must be of type float.
+[2019.11.21-06.16.09:785][  0]LogMaterial: 	Function mf_Sagiten: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.11.21-06.16.09:837][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.21-06.16.09:844][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.21-06.16.09:865][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.21-06.16.09:909][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 43.82ms to complete.
+[2019.11.21-06.16.09:910][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.417
+[2019.11.21-06.16.10:001][  0]LogCollectionManager: Loaded 0 collections in 0.000708 seconds
+[2019.11.21-06.16.10:043][  0]LogFileCache: Scanning file cache for directory 'D:/Games/Epic Games/Unreal_Projects/CombatSim/Saved/Collections/' took 0.01s
+[2019.11.21-06.16.10:043][  0]LogFileCache: Scanning file cache for directory 'D:/Games/Epic Games/Unreal_Projects/CombatSim/Content/Developers/Pratyush/Collections/' took 0.01s
+[2019.11.21-06.16.10:043][  0]LogFileCache: Scanning file cache for directory 'D:/Games/Epic Games/Unreal_Projects/CombatSim/Content/Collections/' took 0.01s
+[2019.11.21-06.16.10:043][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.11.21-06.16.10:051][  0]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 2572 classes and 603 folders.
+[2019.11.21-06.16.10:054][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.21-06.16.10:084][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.21-06.16.10:100][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-06.16.10:106][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-06.16.10:113][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-06.16.10:119][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-06.16.10:123][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.11.21-06.16.10:180][  0]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.21-06.16.10:183][  0]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.21-06.16.10:183][  0]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.21-06.16.10:246][  0]LogRenderer: Reallocating scene render targets to support 912x924 Format 9 NumSamples 1 (Frame:1).
+[2019.11.21-06.16.10:361][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.21-06.16.10:361][  0]LogLoad: (Engine Initialization) Total time: 7.41 seconds
+[2019.11.21-06.16.10:361][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.21-06.16.10:402][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.11.21-06.16.10:428][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.21-06.16.10:455][  0]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.21-06.16.10:493][  1]LogAssetRegistry: Asset discovery search completed in 4.1118 seconds
+[2019.11.21-06.16.10:495][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.11.21-06.16.10:495][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000059 seconds (updated 0 objects)
+[2019.11.21-08.16.30:679][489]LogSlate: Window 'Message Log' being destroyed
+[2019.11.21-08.16.30:687][489]LogSlate: Window 'Message Log' being destroyed
+[2019.11.21-08.29.36:134][524]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-08.29.38:226][622]LogEditorActor: Deleted Actor: TextRenderActor
+[2019.11.21-08.29.38:249][622]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2019.11.21-08.29.39:836][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-08.29.41:752][824]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.21-08.29.41:758][824]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.11.21-08.29.42:180][824]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2019.11.21-08.29.42:844][824]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.21-08.29.46:391][933]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.21-08.30.28:759][395]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_emissive_simple'
+[2019.11.21-08.30.28:759][395]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_emissive_simple' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/old/m_Sagiten_base.uasset.
+[2019.11.21-08.30.28:759][395]LoadErrors: Error: /Game/ch_hm_TaichoSensei/old/m_Sagiten_base : Can't find file for asset. /Game/Materials_Master/Tools/mfu_emissive_simple
+[2019.11.21-08.30.28:759][395]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_levels'
+[2019.11.21-08.30.28:759][395]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_levels' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/old/m_Sagiten_base.uasset.
+[2019.11.21-08.30.28:759][395]LoadErrors: Error: /Game/ch_hm_TaichoSensei/old/m_Sagiten_base : Can't find file for asset. /Game/Materials_Master/Tools/mfu_levels
+[2019.11.21-08.30.28:760][395]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_MacroVariation'
+[2019.11.21-08.30.28:760][395]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_MacroVariation' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/old/m_Sagiten_base.uasset.
+[2019.11.21-08.30.28:760][395]LoadErrors: Error: /Game/ch_hm_TaichoSensei/old/m_Sagiten_base : Can't find file for asset. /Game/Materials_Master/Tools/mfu_MacroVariation
+[2019.11.21-08.30.28:760][395]LogLinker: Warning: Can't find file '/Game/Materials_Master/Wood_Cstm/mft_wood_normals'
+[2019.11.21-08.30.28:760][395]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Wood_Cstm/mft_wood_normals' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/old/m_Sagiten_base.uasset.
+[2019.11.21-08.30.28:760][395]LoadErrors: Error: /Game/ch_hm_TaichoSensei/old/m_Sagiten_base : Can't find file for asset. /Game/Materials_Master/Wood_Cstm/mft_wood_normals
+[2019.11.21-08.30.28:766][395]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_emissive_simple'
+[2019.11.21-08.30.28:766][395]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_emissive_simple' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/old/m_Sagiten_base.uasset.
+[2019.11.21-08.30.28:767][395]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_levels'
+[2019.11.21-08.30.28:767][395]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_levels' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/old/m_Sagiten_base.uasset.
+[2019.11.21-08.30.28:767][395]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_MacroVariation'
+[2019.11.21-08.30.28:767][395]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_MacroVariation' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/old/m_Sagiten_base.uasset.
+[2019.11.21-08.30.28:767][395]LogLinker: Warning: Can't find file '/Game/Materials_Master/Wood_Cstm/mft_wood_normals'
+[2019.11.21-08.30.28:767][395]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Wood_Cstm/mft_wood_normals' while loading ../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/old/m_Sagiten_base.uasset.
+[2019.11.21-08.30.28:974][395]LogLinker: Warning: Can't find file '/Game/Materials_Master/Wood_Cstm/mft_wood_normals'
+[2019.11.21-08.30.28:974][395]LoadErrors: Failed to load /Game/Materials_Master/Wood_Cstm/mft_wood_normals.mft_wood_normals Referenced by m_Sagiten_base
+[2019.11.21-08.30.28:974][395]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Wood_Cstm/mft_wood_normals' while loading NULL.
+[2019.11.21-08.30.28:974][395]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_MacroVariation'
+[2019.11.21-08.30.28:974][395]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_MacroVariation.mfu_macroVariation Referenced by m_Sagiten_base
+[2019.11.21-08.30.28:974][395]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_MacroVariation' while loading NULL.
+[2019.11.21-08.30.28:974][395]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_emissive_simple'
+[2019.11.21-08.30.28:974][395]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_emissive_simple.mfu_emissive_simple Referenced by m_Sagiten_base
+[2019.11.21-08.30.28:974][395]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_emissive_simple' while loading NULL.
+[2019.11.21-08.30.28:975][395]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_levels'
+[2019.11.21-08.30.28:975][395]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_levels.mfu_levels Referenced by m_Sagiten_base
+[2019.11.21-08.30.28:975][395]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_levels' while loading NULL.
+[2019.11.21-08.30.28:975][395]LogLinker: Warning: Can't find file '/Game/Materials_Master/Wood_Cstm/mft_wood_normals'
+[2019.11.21-08.30.28:975][395]LoadErrors: Failed to load /Game/Materials_Master/Wood_Cstm/mft_wood_normals.mft_wood_normals Referenced by MaterialExpressionMaterialFunctionCall_3
+[2019.11.21-08.30.28:975][395]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Wood_Cstm/mft_wood_normals' while loading NULL.
+[2019.11.21-08.30.28:975][395]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_emissive_simple'
+[2019.11.21-08.30.28:975][395]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_emissive_simple.mfu_emissive_simple Referenced by MaterialExpressionMaterialFunctionCall_4
+[2019.11.21-08.30.28:975][395]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_emissive_simple' while loading NULL.
+[2019.11.21-08.30.28:976][395]LogLinker: Warning: Can't find file '/Game/Materials_Master/Tools/mfu_levels'
+[2019.11.21-08.30.28:976][395]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_levels.mfu_levels Referenced by MaterialExpressionMaterialFunctionCall_5
+[2019.11.21-08.30.28:976][395]LogLinker: Warning: Can't find file for asset '/Game/Materials_Master/Tools/mfu_levels' while loading NULL.
+[2019.11.21-08.30.31:517][395]LogTexture: Display: Building textures: t_ch_hro_hm_Sagiten_Lower_00_SC_00 (AutoDXT, 2048X2048)
+[2019.11.21-08.30.31:517][395]LogTexture: Display: Building textures: t_ch_hro_hm_Sagiten_Lower_00_SC_01 (AutoDXT, 2048X2048)
+[2019.11.21-08.30.31:517][395]LogMaterial: Display: Missing cached shader map for material m_Sagiten_base, compiling. 
+[2019.11.21-08.30.31:518][395]LogMaterial: Warning: D:\Games\Epic Games\Unreal_Projects\CombatSim\Content\ch_hm_TaichoSensei\old\m_Sagiten_base.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.21-08.30.31:518][395]LogMaterial: 	Missing Material Function
+[2019.11.21-08.30.48:744][393]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.21-08.31.02:264][985]LogTexture: Display: Building textures: t_ch_hro_hm_Sagiten_Upper_00_SC_01 (AutoDXT, 2048X2048)
+[2019.11.21-08.31.02:264][985]LogTexture: Display: Building textures: t_ch_hro_hm_Sagiten_Upper_00_E_01 (AutoDXT, 2048X2048)
+[2019.11.21-08.31.02:264][985]LogTexture: Display: Building textures: t_ch_hro_hm_Sagiten_Upper_00_SC_00 (AutoDXT, 2048X2048)
+[2019.11.21-08.31.02:288][985]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.21-08.31.02:297][985]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.21-08.31.02:298][985]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.21-08.31.02:306][985]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2019.11.21-08.31.02:592][985]LogPlayLevel: PlayLevel: Blueprint regeneration took 293 ms (1 blueprints)
+[2019.11.21-08.31.02:604][985]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 20, 2019, 8:31:02 PM)
+[2019.11.21-08.31.02:604][985]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.21-08.31.02:620][985]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015786s)
+[2019.11.21-08.31.02:621][985]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.21-08.31.02:621][985]LogPlayLevel: PIE: World Init took: (0.000721s)
+[2019.11.21-08.31.02:621][985]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016659s)
+[2019.11.21-08.31.02:691][985]LogInit: XAudio2 using 'Speakers (Logitech G633 Gaming Headset)' : 6 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.11.21-08.31.02:711][985]LogInit: FAudioDevice initialized.
+[2019.11.21-08.31.02:768][985]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.21-08.31.02:771][985]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.11.21-02.31.02
+[2019.11.21-08.31.02:771][985]LogWorld: Bringing up level for play took: 0.001148
+[2019.11.21-08.31.02:786][985]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 10 classes and 0 folders.
+[2019.11.21-08.31.02:786][985]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.336
+[2019.11.21-08.31.02:787][985]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.21-08.31.05:396][ 70]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2019.11.21-08.31.05:404][ 70]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2019.11.21-08.31.12:138][471]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.21-08.31.13:740][567]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.21-08.31.13:741][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-08.31.13:771][567]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.21-08.31.13:771][567]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.21-08.31.13:793][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-08.31.13:844][570]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.11.21-08.31.20:643][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-08.31.20:721][980]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.11.21-08.31.29:329][438]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.21-08.31.35:378][791]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/ch_hm_TaichoSensei/Warrior_ABP.Warrior_ABP
+[2019.11.21-08.31.35:393][791]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.11.21-08.31.35:564][791]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.21-08.31.35:566][791]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.11.21-08.31.35:790][791]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.21-08.31.36:036][791]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.11.21-08.32.06:144][207]LogSavePackage: Moving '../../../../Unreal_Projects/CombatSim/Saved/ThirdPersonExampleMap_Auto10715590B458F38BB5A1C8184EFBFF72B.tmp' to '../../../../Unreal_Projects/CombatSim/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2019.11.21-08.32.06:148][207]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.473
+[2019.11.21-08.32.06:148][207]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.473
+[2019.11.21-08.32.06:151][207]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.11.21-08.32.06:166][207]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.11.21-08.32.06:166][207]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.11.21-08.32.06:206][207]LogSavePackage: Moving '../../../../Unreal_Projects/CombatSim/Saved/ThirdPersonCharacter_Auto16AC31D5B4096DA00497FA795A7787275.tmp' to '../../../../Unreal_Projects/CombatSim/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2019.11.21-08.32.06:207][207]LogFileHelpers: Auto-saving content packages took 0.057
+[2019.11.21-08.50.18:956][524]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-08.50.23:922][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-08.51.03:929][189]BlueprintLog: New page: Compile Warrior_ABP
+[2019.11.21-08.51.32:604][483]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.023
+[2019.11.21-08.51.32:606][483]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ch_hm_TaichoSensei/Warrior_ABP] ([1] browsable assets)...
+[2019.11.21-08.51.32:617][483]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ch_hm_TaichoSensei/Warrior_ABP.Warrior_ABP]
+[2019.11.21-08.51.32:617][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/ch_hm_TaichoSensei/Warrior_ABP]
+[2019.11.21-08.51.32:632][483]LogSavePackage: Moving '../../../../Unreal_Projects/CombatSim/Saved/Warrior_ABP_Auto2EC8C9DBE4DC074AE057B228D6CE7D243.tmp' to '../../../../Unreal_Projects/CombatSim/Saved/Autosaves/Game/ch_hm_TaichoSensei/Warrior_ABP_Auto2.uasset'
+[2019.11.21-08.51.32:633][483]LogFileHelpers: Auto-saving content packages took 0.028
+[2019.11.21-09.01.53:482][280]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.21-09.01.53:488][280]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.21-09.02.04:092][911]LogSlate: Window 'Warrior_ABP*' being destroyed
+[2019.11.21-09.02.04:096][911]LogSlate: Window 'Warrior_ABP*' being destroyed
+[2019.11.21-09.02.10:079][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-09.02.10:177][255]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.11.21-09.02.47:067][401]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ch_hm_TaichoSensei/Warrior_BP.Warrior_BP
+[2019.11.21-09.02.57:930][ 20]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.21-09.03.00:780][185]BlueprintLog: New page: Compile Warrior_BP
+[2019.11.21-09.03.05:467][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-09.03.15:350][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-09.03.15:540][903]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/ch_hm_TaichoSensei/Warrior_ABP.Warrior_ABP
+[2019.11.21-09.03.15:557][903]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.21-09.03.15:761][903]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.21-09.03.16:631][938]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/ch_hm_TaichoSensei/Warrior_Blendspace.Warrior_Blendspace
+[2019.11.21-09.03.16:644][938]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.21-09.03.16:666][938]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.21-09.03.16:943][938]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.21-09.03.33:166][853]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.21-09.03.37:200][ 93]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.21-09.03.38:446][167]BlueprintLog: New page: Compile Warrior_ABP
+[2019.11.21-09.03.41:004][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ch_hm_TaichoSensei/Warrior_ABP" FILE="../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/Warrior_ABP.uasset" SILENT=true
+[2019.11.21-09.03.41:019][311]LogSavePackage: Moving '../../../../Unreal_Projects/CombatSim/Saved/Warrior_ABPB297E63E4F405B74CA3E8E8CF08245D3.tmp' to '../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/Warrior_ABP.uasset'
+[2019.11.21-09.03.42:604][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ch_hm_TaichoSensei/Warrior_BP" FILE="../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/Warrior_BP.uasset" SILENT=true
+[2019.11.21-09.03.42:640][403]LogSavePackage: Moving '../../../../Unreal_Projects/CombatSim/Saved/Warrior_BP870E18164F1FFB0296CA99B3D030B6FC.tmp' to '../../../../Unreal_Projects/CombatSim/Content/ch_hm_TaichoSensei/Warrior_BP.uasset'
+[2019.11.21-09.03.43:361][446]BlueprintLog: New page: Compile Warrior_BP
+[2019.11.21-09.03.54:813][114]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.21-09.04.03:882][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-09.04.09:264][957]LogEditorTransaction: Undo Set Location
+[2019.11.21-09.04.09:268][957]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_11:PersistentLevel.Warrior_BP_C_0.CollisionCylinder) Component already registered.
+[2019.11.21-09.04.11:363][957]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.091 s
+[2019.11.21-09.04.11:363][957]LogOutputDevice: Error: === Handled ensure: ===
+[2019.11.21-09.04.11:363][957]LogOutputDevice: Error: 
+[2019.11.21-09.04.11:363][957]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2019.11.21-09.04.11:363][957]LogOutputDevice: Error: 
+[2019.11.21-09.04.11:363][957]LogOutputDevice: Error: Stack: 
+[2019.11.21-09.04.11:363][957]LogOutputDevice: Error: [Callstack] 0x00007ffd6a3e71f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.11.21-09.04.11:363][957]LogOutputDevice: Error: [Callstack] 0x00007ffd6a120c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd6a13b356 UE4Editor-Core.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd53aceedf UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd53a74514 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd4f1641a9 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd4f164ee5 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd4f111a51 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd698bd0d2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd69883f79 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd69926a2e UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd697393b0 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd696d1444 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd531d0014 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd52e48d70 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd52ddf869 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd531d4833 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd531bb550 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd5316b524 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd531c0f0a UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd52d7b41b UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd52e0843e UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd52e55d9d UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd53a74dc6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd53aa01fb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd53a86535 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd53af2dc5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd53b39b6d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd53acc81f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd52de05b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd696d24df UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd6971437e UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd54323a8e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd54311a08 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd696970ac UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd6971606c UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd69709846 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd6fa6ce45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd6fa60270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd6fa6f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd6fa5c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffdba9c63ed USER32.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffdba9c5de2 USER32.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffd6fa70646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ff7f5df54e5 UE4Editor.exe!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ff7f5e05b3c UE4Editor.exe!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ff7f5e05bba UE4Editor.exe!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ff7f5e13dac UE4Editor.exe!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ff7f5e15aaa UE4Editor.exe!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffdba907bd4 KERNEL32.DLL!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: [Callstack] 0x00007ffdbb04ced1 ntdll.dll!UnknownFunction []
+[2019.11.21-09.04.11:364][957]LogOutputDevice: Error: 
+[2019.11.21-09.04.11:387][957]LogStats:                SubmitErrorReport -  0.013 s
