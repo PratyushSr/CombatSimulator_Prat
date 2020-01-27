@@ -1,0 +1,1342 @@
+﻿Log file open, 01/14/20 13:50:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CmbtSim_GitHub
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 13.846620
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Games/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.14-19.50.49:014][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.14-19.50.49:014][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.14-19.50.49:058][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Games/Epic Games/Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Saved/Config/Windows/Engine.ini]
+[2020.01.14-19.50.49:058][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.14-19.50.49:058][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Games/Epic Games/Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Saved/Config/Windows/Engine.ini]
+[2020.01.14-19.50.49:058][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Games/Epic Games/Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Saved/Config/Windows/Engine.ini]
+[2020.01.14-19.50.49:058][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.14-19.50.49:058][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.14-19.50.49:059][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.14-19.50.49:059][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.14-19.50.49:059][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.14-19.50.49:059][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.14-19.50.49:059][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.14-19.50.49:059][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.14-19.50.49:059][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.14-19.50.49:059][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.14-19.50.49:059][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.14-19.50.49:059][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.14-19.50.49:059][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.14-19.50.49:059][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.01.14-19.50.49:059][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Games/Epic Games/Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Saved/Config/Windows/Engine.ini]
+[2020.01.14-19.50.49:059][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.14-19.50.49:059][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.14-19.50.49:059][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.14-19.50.49:059][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.14-19.50.49:059][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.14-19.50.49:059][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.14-19.50.49:059][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.01.14-19.50.49:059][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.14-19.50.49:059][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.14-19.50.49:059][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.14-19.50.49:059][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.14-19.50.49:059][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.14-19.50.49:059][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.14-19.50.49:059][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Games/Epic Games/Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Saved/Config/Windows/Engine.ini]
+[2020.01.14-19.50.49:059][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Games/Epic Games/Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Saved/Config/Windows/Engine.ini]
+[2020.01.14-19.50.49:130][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Games/Epic Games/Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Games/Epic Games/Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Games/Epic Games/Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Games/Epic Games/Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.14-19.50.49:130][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Games/Epic Games/Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Games/Epic Games/Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Games/Epic Games/Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Games/Epic Games/Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.01.14-19.50.49:131][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.01.14-19.50.49:139][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.14-19.50.49:139][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.14-19.50.49:215][  0]LogHAL: Display: Platform has ~ 16 GB [16964153344 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.14-19.50.49:215][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.14-19.50.49:215][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [D:/Games/Epic Games/Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-19.50.49:215][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2020.01.14-19.50.49:215][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2020.01.14-19.50.49:215][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [D:/Games/Epic Games/Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-19.50.49:215][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2020.01.14-19.50.49:215][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [D:/Games/Epic Games/Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-19.50.49:215][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.14-19.50.49:215][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2020.01.14-19.50.49:215][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.01.14-19.50.49:215][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [D:/Games/Epic Games/Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [D:/Games/Epic Games/Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [D:/Games/Epic Games/Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.SSGI.Quality:1]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [D:/Games/Epic Games/Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Games/Epic Games/Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.01.14-19.50.49:216][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.14-19.50.49:230][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.14-19.50.49:230][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.14-19.50.49:230][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.01.14-19.50.49:230][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Games/Epic Games/Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Saved/Config/Windows/Engine.ini]
+[2020.01.14-19.50.49:372][  0]LogInit: Computer: DESKTOP-1DLMEOD
+[2020.01.14-19.50.49:372][  0]LogInit: User: Pratyush
+[2020.01.14-19.50.49:372][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.01.14-19.50.49:372][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.14-19.50.49:372][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.01.14-19.50.49:372][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.14-19.50.49:372][  0]LogMemory: Process Physical Memory: 106.76 MB used, 106.76 MB peak
+[2020.01.14-19.50.49:372][  0]LogMemory: Process Virtual Memory: 101.82 MB used, 101.82 MB peak
+[2020.01.14-19.50.49:372][  0]LogMemory: Physical Memory: 6950.46 MB used,  9227.82 MB free, 16178.28 MB total
+[2020.01.14-19.50.49:372][  0]LogMemory: Virtual Memory: 5160.07 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2020.01.14-19.50.49:376][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.01.14-19.50.50:381][  0]LogInit: Using OS detected language (en-US).
+[2020.01.14-19.50.50:381][  0]LogInit: Using OS detected locale (en-US).
+[2020.01.14-19.50.50:536][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.01.14-19.50.51:441][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.14-19.50.52:018][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.14-19.50.52:018][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.14-19.50.53:097][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.14-19.50.53:097][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.01.14-19.50.53:097][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.01.14-19.50.53:097][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.14-19.50.53:163][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2020.01.14-19.50.53:163][  0]LogD3D11RHI:       6052/0/8089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.01.14-19.50.53:179][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.01.14-19.50.53:179][  0]LogD3D11RHI:       128/0/8089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.01.14-19.50.53:181][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.14-19.50.53:181][  0]LogD3D11RHI:       0/0/8089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.14-19.50.53:181][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.14-19.50.53:280][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.14-19.50.53:280][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.14-19.50.53:280][  0]LogWindows: EnumDisplayDevices:
+[2020.01.14-19.50.53:280][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.01.14-19.50.53:281][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.01.14-19.50.53:281][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.01.14-19.50.53:282][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2020.01.14-19.50.53:282][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.01.14-19.50.53:282][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2020.01.14-19.50.53:282][  0]LogD3D11RHI:   Driver Version: 436.15 (internal:26.21.14.3615, unified:436.15)
+[2020.01.14-19.50.53:282][  0]LogD3D11RHI:      Driver Date: 8-24-2019
+[2020.01.14-19.50.53:282][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.01.14-19.50.53:324][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.01.14-19.50.53:332][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.14-19.50.53:606][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.01.14-19.50.54:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.01.14-19.50.54:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.01.14-19.50.54:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.01.14-19.50.54:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.01.14-19.50.54:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.01.14-19.50.54:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.01.14-19.50.54:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.01.14-19.50.54:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.01.14-19.50.54:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.01.14-19.50.54:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.01.14-19.50.54:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.14-19.50.54:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.01.14-19.50.54:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.01.14-19.50.54:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.14-19.50.54:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.14-19.50.54:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.14-19.50.54:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.14-19.50.54:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.01.14-19.50.54:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.01.14-19.50.54:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.01.14-19.50.54:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.01.14-19.50.54:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.14-19.50.54:475][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.01.14-19.50.54:497][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.01.14-19.50.54:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.01.14-19.50.54:519][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.01.14-19.50.54:530][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.01.14-19.50.54:561][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.01.14-19.50.54:561][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.01.14-19.50.54:578][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.01.14-19.50.54:578][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.01.14-19.50.54:608][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.14-19.50.54:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.01.14-19.50.54:714][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.01.14-19.50.54:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.01.14-19.50.54:736][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.14-19.50.54:845][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.14-19.50.55:640][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Intermediate/Shaders/WorkingDirectory/24508/).
+[2020.01.14-19.50.55:640][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/22iro/AppData/Local/Temp/UnrealShaderWorkingDir/28845EC9489B969031C009A9946D9FDF/'.
+[2020.01.14-19.50.55:642][  0]LogXGEController: Cleaning working directory: C:/Users/22iro/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.01.14-19.50.55:643][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.14-19.50.55:643][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.14-19.50.55:643][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.14-19.50.57:969][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.14-19.50.58:246][  0]LogDerivedDataCache: Loaded boot cache 0.27s 91MB C:/Users/22iro/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.01.14-19.50.58:246][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/22iro/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.01.14-19.50.58:246][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.14-19.50.58:246][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.14-19.50.58:246][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.14-19.50.58:246][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.14-19.50.58:319][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.14-19.50.58:319][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.14-19.50.58:319][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.14-19.50.58:321][  0]LogDerivedDataCache: Using Local data cache path C:/Users/22iro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.14-19.50.58:321][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.14-19.50.58:321][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.14-19.50.58:369][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.14-19.50.58:519][  0]LogSlate: Using FreeType 2.10.0
+[2020.01.14-19.50.58:601][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.14-19.50.59:296][  0]LogAssetRegistry: FAssetRegistry took 0.0065 seconds to start up
+[2020.01.14-19.51.05:480][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.14-19.51.08:015][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.14-19.51.08:015][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.14-19.51.08:015][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.14-19.51.08:015][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.14-19.51.08:015][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.14-19.51.08:344][  0]LogNetVersion: CmbtSim_GitHub 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 141074361)
+[2020.01.14-19.51.09:106][  0]LogInput: Warning: Action Jump uses deprecated key MotionController_Left_Trigger.
+[2020.01.14-19.51.09:106][  0]LogInput: Warning: Action ResetVR uses deprecated key MotionController_Left_Grip1.
+[2020.01.14-19.51.09:106][  0]LogInput: Warning: Action Jump uses deprecated key MotionController_Right_Trigger.
+[2020.01.14-19.51.09:106][  0]LogInput: Warning: Axis MoveForward uses deprecated key MotionController_Left_Thumbstick_Y.
+[2020.01.14-19.51.09:106][  0]LogInput: Warning: Axis MoveRight uses deprecated key MotionController_Left_Thumbstick_X.
+[2020.01.14-19.51.09:106][  0]LogInput: Warning: Axis TurnRate uses deprecated key MotionController_Right_Thumbstick_X.
+[2020.01.14-19.51.16:531][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.042099 seconds
+[2020.01.14-19.51.16:544][  0]LogUObjectArray: 46771 objects as part of root set at end of initial load.
+[2020.01.14-19.51.16:545][  0]LogUObjectAllocator: 8140680 out of 0 bytes used by permanent object pool.
+[2020.01.14-19.51.16:545][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.14-19.51.21:528][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.14-19.51.21:568][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.14-19.51.22:238][  0]SourceControl: Source control is disabled
+[2020.01.14-19.51.22:246][  0]SourceControl: Source control is disabled
+[2020.01.14-19.51.22:338][  0]SourceControl: Source control is disabled
+[2020.01.14-19.51.22:409][  0]SourceControl: Source control is disabled
+[2020.01.14-19.51.22:448][  0]SourceControl: Source control is disabled
+[2020.01.14-19.51.23:852][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.14-19.51.24:016][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.01.14-19.51.24:016][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.01.14-19.51.24:464][  0]LogOcInput: OculusInput pre-init called
+[2020.01.14-19.51.24:509][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.01.14-19.51.24:509][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.01.14-19.51.25:627][  0]LogEngine: Initializing Engine...
+[2020.01.14-19.51.25:654][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.14-19.51.25:768][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.026 s
+[2020.01.14-19.51.26:541][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.14-19.51.27:008][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.14-19.51.27:178][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.14-19.51.27:178][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.14-19.51.27:178][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.14-19.51.27:178][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.14-19.51.27:178][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.14-19.51.27:178][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.14-19.51.27:178][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.14-19.51.27:178][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.14-19.51.27:186][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.14-19.51.27:186][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.14-19.51.27:255][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.14-19.51.27:255][  0]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2020.01.14-19.51.27:255][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.01.14-19.51.27:255][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.14-19.51.27:255][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.14-19.51.27:255][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.14-19.51.27:255][  0]LogAudioMixer: Display: Channel Order:
+[2020.01.14-19.51.27:255][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.14-19.51.27:255][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.01.14-19.51.27:983][  0]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2020.01.14-19.51.28:040][  0]LogInit: FAudioDevice initialized.
+[2020.01.14-19.51.28:040][  0]LogNetVersion: Set ProjectVersion to 1.0.0.5. Version Checksum will be recalculated on next use.
+[2020.01.14-19.51.28:131][  0]LogDerivedDataCache: Saved boot cache 0.09s 91MB C:/Users/22iro/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.01.14-19.51.28:134][  0]LogInit: Texture streaming: Enabled
+[2020.01.14-19.51.28:319][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.14-19.51.28:319][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.01.14-19.51.28:323][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.01.14-19.51.28:693][  0]LogInit: Transaction tracking system initialized
+[2020.01.14-19.51.29:016][  0]BlueprintLog: New page: Editor Load
+[2020.01.14-19.51.30:110][  0]LocalizationService: Localization service is disabled
+[2020.01.14-19.51.30:568][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2020.01.14-19.51.30:568][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2020.01.14-19.51.30:568][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2020.01.14-19.51.34:885][  0]LogFileCache: Scanning file cache for directory 'D:/Games/Epic Games/Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/' took 0.05s
+[2020.01.14-19.51.34:885][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.14-19.51.34:885][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.14-19.51.40:773][  0]SourceControl: Source control is disabled
+[2020.01.14-19.51.40:778][  0]Cmd: MAP LOAD FILE="../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.14-19.51.40:797][  0]LightingResults: New page: Lighting Build
+[2020.01.14-19.51.40:842][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-19.51.40:873][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-19.51.40:891][  0]MapCheck: New page: Map Check
+[2020.01.14-19.51.40:891][  0]LightingResults: New page: Lighting Build
+[2020.01.14-19.51.41:505][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.01.14-19.51.41:655][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/walk.uasset' failed to load '/Game/audio/a_sfx/Boss_Mv_Walk_00_Cue': Can't find file.
+[2020.01.14-19.51.41:655][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/walk.uasset' failed to load '/Game/audio/a_sfx/Boss_Mv_Walk_00_Cue': Can't find file.
+[2020.01.14-19.51.41:655][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/walk.uasset' failed to load '/Game/audio/a_sfx/Boss_Mv_Walk_00_Cue': Can't find file.
+[2020.01.14-19.51.41:655][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/walk.uasset' failed to load '/Game/audio/a_sfx/Boss_Mv_Walk_00_Cue': Can't find file.
+[2020.01.14-19.51.43:756][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/boss_carvable.uasset' failed to load '/Game/Materials_Master/Carpaint/Car': Can't find file.
+[2020.01.14-19.51.43:756][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/boss_carvable.uasset' failed to load '/Game/Materials_Master/Carpaint/Car': Can't find file.
+[2020.01.14-19.51.43:770][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/boss_carvable.uasset' failed to load '/Game/Materials_Master/Carpaint/Car': Can't find file.
+[2020.01.14-19.51.43:770][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/boss_carvable.uasset' failed to load '/Game/Materials_Master/Carpaint/Car': Can't find file.
+[2020.01.14-19.51.43:771][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/Materials_Master/Carpaint/Car': Can't find file.
+[2020.01.14-19.51.43:771][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/Materials_Master/Carpaint/Car': Can't find file.
+[2020.01.14-19.51.43:772][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/Materials_Master/Carpaint/Car': Can't find file.
+[2020.01.14-19.51.43:772][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/Materials_Master/Carpaint/Car': Can't find file.
+[2020.01.14-19.51.43:773][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/Materials_Master/Carpaint/Car': Can't find file.
+[2020.01.14-19.51.43:773][  0]LoadErrors: Failed to load /Game/Materials_Master/Carpaint/Car.Car Referenced by Cube_GEN_VARIABLE
+[2020.01.14-19.51.43:773][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/Materials_Master/Carpaint/Car': Can't find file.
+[2020.01.14-19.51.43:773][  0]LoadErrors: Failed to load /Game/Materials_Master/Carpaint/Car.Car Referenced by Cube_GEN_VARIABLE
+[2020.01.14-19.51.43:788][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/fire.uasset' failed to load '/Game/vfx/p_fire_00': Can't find file.
+[2020.01.14-19.51.43:789][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/fire.uasset' failed to load '/Game/vfx/p_fire_00': Can't find file.
+[2020.01.14-19.51.43:789][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/fire.uasset' failed to load '/Game/vfx/p_fire_00': Can't find file.
+[2020.01.14-19.51.43:789][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/fire.uasset' failed to load '/Game/vfx/p_fire_00': Can't find file.
+[2020.01.14-19.51.43:790][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/vfx/p_fire_00': Can't find file.
+[2020.01.14-19.51.43:790][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/vfx/p_fire_00': Can't find file.
+[2020.01.14-19.51.43:790][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/vfx/p_fire_00': Can't find file.
+[2020.01.14-19.51.43:790][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/vfx/p_fire_00': Can't find file.
+[2020.01.14-19.51.43:792][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/vfx/p_fire_00': Can't find file.
+[2020.01.14-19.51.43:792][  0]LoadErrors: Failed to load /Game/vfx/p_fire_00.p_fire_00 Referenced by ParticleSystem_GEN_VARIABLE
+[2020.01.14-19.51.43:792][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/vfx/p_fire_00': Can't find file.
+[2020.01.14-19.51.43:792][  0]LoadErrors: Failed to load /Game/vfx/p_fire_00.p_fire_00 Referenced by ParticleSystem_GEN_VARIABLE
+[2020.01.14-19.51.43:792][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/vh_caravan_Roman_00/caravan': Can't find file.
+[2020.01.14-19.51.43:792][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/vh_caravan_Roman_00/caravan': Can't find file.
+[2020.01.14-19.51.43:980][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mf_an_nachselah_body_stone.uasset' failed to load '/Game/Materials_Master/Tools/mf_NormalMap_Combine': Can't find file.
+[2020.01.14-19.51.43:980][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mf_an_nachselah_body_stone.uasset' failed to load '/Game/Materials_Master/Tools/mf_NormalMap_Combine': Can't find file.
+[2020.01.14-19.51.43:980][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mf_an_nachselah_body_stone.uasset' failed to load '/Game/Materials_Master/Tools/mfu_fresnel': Can't find file.
+[2020.01.14-19.51.43:980][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mf_an_nachselah_body_stone.uasset' failed to load '/Game/Materials_Master/Tools/mfu_fresnel': Can't find file.
+[2020.01.14-19.51.44:029][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mf_an_nachselah_body_stone.uasset' failed to load '/Game/env_lapis/t_env_wall_lapisLazuli_00_N_00': Can't find file.
+[2020.01.14-19.51.44:029][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mf_an_nachselah_body_stone.uasset' failed to load '/Game/env_lapis/t_env_wall_lapisLazuli_00_N_00': Can't find file.
+[2020.01.14-19.51.44:029][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mf_an_nachselah_body_stone.uasset' failed to load '/Game/Materials_Master/Tools/mf_NormalMap_Combine': Can't find file.
+[2020.01.14-19.51.44:029][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mf_an_nachselah_body_stone.uasset' failed to load '/Game/Materials_Master/Tools/mf_NormalMap_Combine': Can't find file.
+[2020.01.14-19.51.44:029][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mf_an_nachselah_body_stone.uasset' failed to load '/Game/Materials_Master/Tools/mfu_fresnel': Can't find file.
+[2020.01.14-19.51.44:029][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mf_an_nachselah_body_stone.uasset' failed to load '/Game/Materials_Master/Tools/mfu_fresnel': Can't find file.
+[2020.01.14-19.51.44:030][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mf_an_nachselah_body_stone.uasset' failed to load '/Game/env_lapis/t_env_wall_lapisLazuli_00_N_00': Can't find file.
+[2020.01.14-19.51.44:030][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mf_an_nachselah_body_stone.uasset' failed to load '/Game/env_lapis/t_env_wall_lapisLazuli_00_N_00': Can't find file.
+[2020.01.14-19.51.44:031][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/m_an_rockCreature_stone.uasset' failed to load '/Game/Materials_Master/Material_Functions/MF_Pulse': Can't find file.
+[2020.01.14-19.51.44:031][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/m_an_rockCreature_stone.uasset' failed to load '/Game/Materials_Master/Material_Functions/MF_Pulse': Can't find file.
+[2020.01.14-19.51.44:031][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/m_an_rockCreature_stone.uasset' failed to load '/Game/Materials_Master/Tools/mf_NormalMap_Combine': Can't find file.
+[2020.01.14-19.51.44:031][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/m_an_rockCreature_stone.uasset' failed to load '/Game/Materials_Master/Tools/mf_NormalMap_Combine': Can't find file.
+[2020.01.14-19.51.44:031][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/m_an_rockCreature_stone.uasset' failed to load '/Game/Materials_Master/Tools/mfu_fresnel': Can't find file.
+[2020.01.14-19.51.44:031][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/m_an_rockCreature_stone.uasset' failed to load '/Game/Materials_Master/Tools/mfu_fresnel': Can't find file.
+[2020.01.14-19.51.44:031][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/m_an_rockCreature_stone.uasset' failed to load '/Game/Materials_Master/Material_Functions/MF_Pulse': Can't find file.
+[2020.01.14-19.51.44:031][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/m_an_rockCreature_stone.uasset' failed to load '/Game/Materials_Master/Material_Functions/MF_Pulse': Can't find file.
+[2020.01.14-19.51.44:031][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/m_an_rockCreature_stone.uasset' failed to load '/Game/Materials_Master/Tools/mf_NormalMap_Combine': Can't find file.
+[2020.01.14-19.51.44:032][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/m_an_rockCreature_stone.uasset' failed to load '/Game/Materials_Master/Tools/mf_NormalMap_Combine': Can't find file.
+[2020.01.14-19.51.44:032][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/m_an_rockCreature_stone.uasset' failed to load '/Game/Materials_Master/Tools/mfu_fresnel': Can't find file.
+[2020.01.14-19.51.44:032][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/m_an_rockCreature_stone.uasset' failed to load '/Game/Materials_Master/Tools/mfu_fresnel': Can't find file.
+[2020.01.14-19.51.44:575][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/particles/vfx_trail_action_lines.uasset' failed to load '/Game/vfx/vfx_materials/m_vfx_explosion_feathered': Can't find file.
+[2020.01.14-19.51.44:575][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/particles/vfx_trail_action_lines.vfx_trail_action_lines Referenced by action_lines_GEN_VARIABLE
+[2020.01.14-19.51.44:575][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/particles/vfx_trail_action_lines.uasset' failed to load '/Game/vfx/vfx_materials/m_vfx_explosion_feathered': Can't find file.
+[2020.01.14-19.51.44:575][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/particles/vfx_trail_action_lines.vfx_trail_action_lines Referenced by action_lines_GEN_VARIABLE
+[2020.01.14-19.51.44:575][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/particles/vfx_trail_action_lines.uasset' failed to load '/Game/vfx_segovia_DONOTUSE/P_Slash/Material/m_vfx_animTrail_00': Can't find file.
+[2020.01.14-19.51.44:575][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/particles/vfx_trail_action_lines.vfx_trail_action_lines Referenced by action_lines_GEN_VARIABLE
+[2020.01.14-19.51.44:575][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/particles/vfx_trail_action_lines.uasset' failed to load '/Game/vfx_segovia_DONOTUSE/P_Slash/Material/m_vfx_animTrail_00': Can't find file.
+[2020.01.14-19.51.44:575][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/particles/vfx_trail_action_lines.vfx_trail_action_lines Referenced by action_lines_GEN_VARIABLE
+[2020.01.14-19.51.44:575][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/particles/vfx_trail_action_lines.uasset' failed to load '/Game/vfx/vfx_materials/m_vfx_explosion_feathered': Can't find file.
+[2020.01.14-19.51.44:575][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/particles/vfx_trail_action_lines.vfx_trail_action_lines Referenced by action_lines_GEN_VARIABLE
+[2020.01.14-19.51.44:576][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/particles/vfx_trail_action_lines.uasset' failed to load '/Game/vfx/vfx_materials/m_vfx_explosion_feathered': Can't find file.
+[2020.01.14-19.51.44:576][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/particles/vfx_trail_action_lines.vfx_trail_action_lines Referenced by action_lines_GEN_VARIABLE
+[2020.01.14-19.51.44:576][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/particles/vfx_trail_action_lines.uasset' failed to load '/Game/vfx_segovia_DONOTUSE/P_Slash/Material/m_vfx_animTrail_00': Can't find file.
+[2020.01.14-19.51.44:576][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/particles/vfx_trail_action_lines.vfx_trail_action_lines Referenced by action_lines_GEN_VARIABLE
+[2020.01.14-19.51.44:576][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/particles/vfx_trail_action_lines.uasset' failed to load '/Game/vfx_segovia_DONOTUSE/P_Slash/Material/m_vfx_animTrail_00': Can't find file.
+[2020.01.14-19.51.44:576][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/particles/vfx_trail_action_lines.vfx_trail_action_lines Referenced by action_lines_GEN_VARIABLE
+[2020.01.14-19.51.44:761][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mi_nachselah_eye_lens.uasset' failed to load '/Game/Materials_Master/Glass/mi_eye_lensCornea': Can't find file.
+[2020.01.14-19.51.44:761][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/sk_boss_nachselah_00_00.sk_boss_nachselah_00_00 Referenced by boss_GEN_VARIABLE
+[2020.01.14-19.51.44:761][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mi_nachselah_eye_lens.uasset' failed to load '/Game/Materials_Master/Glass/mi_eye_lensCornea': Can't find file.
+[2020.01.14-19.51.44:761][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/sk_boss_nachselah_00_00.sk_boss_nachselah_00_00 Referenced by boss_GEN_VARIABLE
+[2020.01.14-19.51.44:761][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mi_nachselah_eye_lens.uasset' failed to load '/Game/Materials_Master/Glass/mi_eye_lensCornea': Can't find file.
+[2020.01.14-19.51.44:761][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/sk_boss_nachselah_00_00.sk_boss_nachselah_00_00 Referenced by boss_GEN_VARIABLE
+[2020.01.14-19.51.44:761][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mi_nachselah_eye_lens.uasset' failed to load '/Game/Materials_Master/Glass/mi_eye_lensCornea': Can't find file.
+[2020.01.14-19.51.44:761][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/sk_boss_nachselah_00_00.sk_boss_nachselah_00_00 Referenced by boss_GEN_VARIABLE
+[2020.01.14-19.51.44:765][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mi_nachselah_eye_lensCornea.uasset' failed to load '/Game/Materials_Master/Glass/mi_eye_lensCornea': Can't find file.
+[2020.01.14-19.51.44:765][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/sk_boss_nachselah_00_00.sk_boss_nachselah_00_00 Referenced by boss_GEN_VARIABLE
+[2020.01.14-19.51.44:765][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mi_nachselah_eye_lensCornea.uasset' failed to load '/Game/Materials_Master/Glass/mi_eye_lensCornea': Can't find file.
+[2020.01.14-19.51.44:766][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/sk_boss_nachselah_00_00.sk_boss_nachselah_00_00 Referenced by boss_GEN_VARIABLE
+[2020.01.14-19.51.44:766][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mi_nachselah_eye_lensCornea.uasset' failed to load '/Game/Materials_Master/Glass/mi_eye_lensCornea': Can't find file.
+[2020.01.14-19.51.44:766][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/sk_boss_nachselah_00_00.sk_boss_nachselah_00_00 Referenced by boss_GEN_VARIABLE
+[2020.01.14-19.51.44:766][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mi_nachselah_eye_lensCornea.uasset' failed to load '/Game/Materials_Master/Glass/mi_eye_lensCornea': Can't find file.
+[2020.01.14-19.51.44:766][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/sk_boss_nachselah_00_00.sk_boss_nachselah_00_00 Referenced by boss_GEN_VARIABLE
+[2020.01.14-19.51.44:833][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/testMesh/mf_an_nachselah_body_plate.uasset' failed to load '/Game/Materials_Master/Tools/mf_NormalMap_Combine': Can't find file.
+[2020.01.14-19.51.44:833][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/testMesh/m_an_rockCreature_plate.m_an_rockCreature_plate Referenced by boss_GEN_VARIABLE
+[2020.01.14-19.51.44:833][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/testMesh/mf_an_nachselah_body_plate.uasset' failed to load '/Game/Materials_Master/Tools/mf_NormalMap_Combine': Can't find file.
+[2020.01.14-19.51.44:833][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/testMesh/m_an_rockCreature_plate.m_an_rockCreature_plate Referenced by boss_GEN_VARIABLE
+[2020.01.14-19.51.44:833][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/testMesh/mf_an_nachselah_body_plate.uasset' failed to load '/Game/Materials_Master/Tools/mfu_fresnel': Can't find file.
+[2020.01.14-19.51.44:833][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/testMesh/m_an_rockCreature_plate.m_an_rockCreature_plate Referenced by boss_GEN_VARIABLE
+[2020.01.14-19.51.44:834][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/testMesh/mf_an_nachselah_body_plate.uasset' failed to load '/Game/Materials_Master/Tools/mfu_fresnel': Can't find file.
+[2020.01.14-19.51.44:834][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/testMesh/m_an_rockCreature_plate.m_an_rockCreature_plate Referenced by boss_GEN_VARIABLE
+[2020.01.14-19.51.44:868][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/testMesh/mf_an_nachselah_body_plate.uasset' failed to load '/Game/env_lapis/t_env_wall_lapisLazuli_00_N_00': Can't find file.
+[2020.01.14-19.51.44:868][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/testMesh/m_an_rockCreature_plate.m_an_rockCreature_plate Referenced by boss_GEN_VARIABLE
+[2020.01.14-19.51.44:869][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/testMesh/mf_an_nachselah_body_plate.uasset' failed to load '/Game/env_lapis/t_env_wall_lapisLazuli_00_N_00': Can't find file.
+[2020.01.14-19.51.44:869][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/testMesh/m_an_rockCreature_plate.m_an_rockCreature_plate Referenced by boss_GEN_VARIABLE
+[2020.01.14-19.51.44:869][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/testMesh/mf_an_nachselah_body_plate.uasset' failed to load '/Game/Materials_Master/Tools/mf_NormalMap_Combine': Can't find file.
+[2020.01.14-19.51.44:869][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/testMesh/m_an_rockCreature_plate.m_an_rockCreature_plate Referenced by boss_GEN_VARIABLE
+[2020.01.14-19.51.44:869][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/testMesh/mf_an_nachselah_body_plate.uasset' failed to load '/Game/Materials_Master/Tools/mf_NormalMap_Combine': Can't find file.
+[2020.01.14-19.51.44:869][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/testMesh/m_an_rockCreature_plate.m_an_rockCreature_plate Referenced by boss_GEN_VARIABLE
+[2020.01.14-19.51.44:869][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/testMesh/mf_an_nachselah_body_plate.uasset' failed to load '/Game/Materials_Master/Tools/mfu_fresnel': Can't find file.
+[2020.01.14-19.51.44:869][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/testMesh/m_an_rockCreature_plate.m_an_rockCreature_plate Referenced by boss_GEN_VARIABLE
+[2020.01.14-19.51.44:869][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/testMesh/mf_an_nachselah_body_plate.uasset' failed to load '/Game/Materials_Master/Tools/mfu_fresnel': Can't find file.
+[2020.01.14-19.51.44:869][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/testMesh/m_an_rockCreature_plate.m_an_rockCreature_plate Referenced by boss_GEN_VARIABLE
+[2020.01.14-19.51.44:870][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/testMesh/mf_an_nachselah_body_plate.uasset' failed to load '/Game/env_lapis/t_env_wall_lapisLazuli_00_N_00': Can't find file.
+[2020.01.14-19.51.44:870][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/testMesh/m_an_rockCreature_plate.m_an_rockCreature_plate Referenced by boss_GEN_VARIABLE
+[2020.01.14-19.51.44:870][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/testMesh/mf_an_nachselah_body_plate.uasset' failed to load '/Game/env_lapis/t_env_wall_lapisLazuli_00_N_00': Can't find file.
+[2020.01.14-19.51.44:870][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/testMesh/m_an_rockCreature_plate.m_an_rockCreature_plate Referenced by boss_GEN_VARIABLE
+[2020.01.14-19.51.44:911][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/Materials_Master/Tools/sk_bones_': Can't find file.
+[2020.01.14-19.51.44:911][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/sk_bones_.sk_bones_ Referenced by boss_GEN_VARIABLE
+[2020.01.14-19.51.44:911][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/Materials_Master/Tools/sk_bones_': Can't find file.
+[2020.01.14-19.51.44:911][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/sk_bones_.sk_bones_ Referenced by boss_GEN_VARIABLE
+[2020.01.14-19.51.45:019][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/edited_anims/attck0_3.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_rollingDirt': Can't find file.
+[2020.01.14-19.51.45:019][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/edited_anims/attck0_3.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_rollingDirt': Can't find file.
+[2020.01.14-19.51.45:019][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/edited_anims/attck0_3.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_smash': Can't find file.
+[2020.01.14-19.51.45:020][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/edited_anims/attck0_3.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_smash': Can't find file.
+[2020.01.14-19.51.45:020][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/edited_anims/attck0_3.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_whoosh': Can't find file.
+[2020.01.14-19.51.45:020][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/edited_anims/attck0_3.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_whoosh': Can't find file.
+[2020.01.14-19.51.45:020][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/edited_anims/attck0_3.uasset' failed to load '/Game/vfx/vfx_rockBlowout_00': Can't find file.
+[2020.01.14-19.51.45:020][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/edited_anims/attck0_3.uasset' failed to load '/Game/vfx/vfx_rockBlowout_00': Can't find file.
+[2020.01.14-19.51.45:020][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/edited_anims/attck0_3.uasset' failed to load '/Game/vfx/vfx_rockBlowout_00': Can't find file.
+[2020.01.14-19.51.45:021][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/edited_anims/attck0_3.uasset' failed to load '/Game/vfx/vfx_rockBlowout_00': Can't find file.
+[2020.01.14-19.51.45:021][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/edited_anims/attck0_3.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_rollingDirt': Can't find file.
+[2020.01.14-19.51.45:021][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/edited_anims/attck0_3.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_rollingDirt': Can't find file.
+[2020.01.14-19.51.45:021][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/edited_anims/attck0_3.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_smash': Can't find file.
+[2020.01.14-19.51.45:021][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/edited_anims/attck0_3.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_smash': Can't find file.
+[2020.01.14-19.51.45:021][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/edited_anims/attck0_3.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_whoosh': Can't find file.
+[2020.01.14-19.51.45:021][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/edited_anims/attck0_3.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_whoosh': Can't find file.
+[2020.01.14-19.51.45:051][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/attck1.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_rollingDirt': Can't find file.
+[2020.01.14-19.51.45:051][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/attck1.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_rollingDirt': Can't find file.
+[2020.01.14-19.51.45:051][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/attck1.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_whoosh': Can't find file.
+[2020.01.14-19.51.45:051][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/attck1.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_whoosh': Can't find file.
+[2020.01.14-19.51.45:051][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/attck1.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_rollingDirt': Can't find file.
+[2020.01.14-19.51.45:052][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/attck1.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_rollingDirt': Can't find file.
+[2020.01.14-19.51.45:052][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/attck1.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_whoosh': Can't find file.
+[2020.01.14-19.51.45:052][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/attck1.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_whoosh': Can't find file.
+[2020.01.14-19.51.45:089][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/attck2.uasset' failed to load '/Game/audio/a_vo/a_cue_boss_nachselah_lion_moan_00': Can't find file.
+[2020.01.14-19.51.45:089][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/attck2.uasset' failed to load '/Game/audio/a_vo/a_cue_boss_nachselah_lion_moan_00': Can't find file.
+[2020.01.14-19.51.45:089][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/attck2.uasset' failed to load '/Game/audio/a_vo/a_cue_boss_nachselah_lion_moan_00': Can't find file.
+[2020.01.14-19.51.45:089][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/attck2.uasset' failed to load '/Game/audio/a_vo/a_cue_boss_nachselah_lion_moan_00': Can't find file.
+[2020.01.14-19.51.45:192][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/hit.uasset' failed to load '/Game/audio/a_sfx/CH_Hit_Kick_Md_01_Cue': Can't find file.
+[2020.01.14-19.51.45:192][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/hit.uasset' failed to load '/Game/audio/a_sfx/CH_Hit_Kick_Md_01_Cue': Can't find file.
+[2020.01.14-19.51.45:192][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/hit.uasset' failed to load '/Game/audio/a_sfx/CH_Hit_Kick_Md_01_Cue': Can't find file.
+[2020.01.14-19.51.45:192][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/hit.uasset' failed to load '/Game/audio/a_sfx/CH_Hit_Kick_Md_01_Cue': Can't find file.
+[2020.01.14-19.51.45:229][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/ko.uasset' failed to load '/Game/audio/a_sfx/CH_Hit_Kick_Md_01_Cue': Can't find file.
+[2020.01.14-19.51.45:229][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/ko.uasset' failed to load '/Game/audio/a_sfx/CH_Hit_Kick_Md_01_Cue': Can't find file.
+[2020.01.14-19.51.45:229][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/ko.uasset' failed to load '/Game/audio/a_sfx/CH_Hit_KO_02_Cue': Can't find file.
+[2020.01.14-19.51.45:229][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/ko.uasset' failed to load '/Game/audio/a_sfx/CH_Hit_KO_02_Cue': Can't find file.
+[2020.01.14-19.51.45:229][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/ko.uasset' failed to load '/Game/audio/a_sfx/CH_Hit_Kick_Md_01_Cue': Can't find file.
+[2020.01.14-19.51.45:230][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/ko.uasset' failed to load '/Game/audio/a_sfx/CH_Hit_Kick_Md_01_Cue': Can't find file.
+[2020.01.14-19.51.45:230][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/ko.uasset' failed to load '/Game/audio/a_sfx/CH_Hit_KO_02_Cue': Can't find file.
+[2020.01.14-19.51.45:230][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/ko.uasset' failed to load '/Game/audio/a_sfx/CH_Hit_KO_02_Cue': Can't find file.
+[2020.01.14-19.51.45:297][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/fire.uasset' failed to load '/Game/audio/a_sfx/XP_Explode_00_Cue': Can't find file.
+[2020.01.14-19.51.45:297][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/fire.uasset' failed to load '/Game/audio/a_sfx/XP_Explode_00_Cue': Can't find file.
+[2020.01.14-19.51.45:297][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/fire.uasset' failed to load '/Game/vfx/p_fire_00': Can't find file.
+[2020.01.14-19.51.45:297][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/fire.uasset' failed to load '/Game/vfx/p_fire_00': Can't find file.
+[2020.01.14-19.51.45:297][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/fire.uasset' failed to load '/Game/vfx/p_fire_00': Can't find file.
+[2020.01.14-19.51.45:297][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/fire.uasset' failed to load '/Game/vfx/p_fire_00': Can't find file.
+[2020.01.14-19.51.45:298][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/fire.uasset' failed to load '/Game/audio/a_sfx/XP_Explode_00_Cue': Can't find file.
+[2020.01.14-19.51.45:298][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/fire.uasset' failed to load '/Game/audio/a_sfx/XP_Explode_00_Cue': Can't find file.
+[2020.01.14-19.51.45:397][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/vh_caravan_Roman_00/caravan': Can't find file.
+[2020.01.14-19.51.45:397][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/vh_caravan_Roman_00/caravan': Can't find file.
+[2020.01.14-19.51.45:398][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/Materials_Master/Tools/sk_bones_': Can't find file.
+[2020.01.14-19.51.45:398][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/Materials_Master/Tools/sk_bones_': Can't find file.
+[2020.01.14-19.51.45:398][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/Materials_Master/Tools/sk_bones_': Can't find file.
+[2020.01.14-19.51.45:398][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/Materials_Master/Tools/sk_bones_': Can't find file.
+[2020.01.14-19.51.45:398][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/vh_caravan_Roman_00/caravan': Can't find file.
+[2020.01.14-19.51.45:399][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/vh_caravan_Roman_00/caravan': Can't find file.
+[2020.01.14-19.51.45:472][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/vh_caravan_Roman_00/caravan': Can't find file.
+[2020.01.14-19.51.45:472][  0]LoadErrors: Failed to load /Game/vh_caravan_Roman_00/caravan.caravan_C Referenced by K2Node_CallFunction_1193
+[2020.01.14-19.51.45:472][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/vh_caravan_Roman_00/caravan': Can't find file.
+[2020.01.14-19.51.45:472][  0]LoadErrors: Failed to load /Game/vh_caravan_Roman_00/caravan.caravan_C Referenced by K2Node_CallFunction_1193
+[2020.01.14-19.51.45:472][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/vh_caravan_Roman_00/caravan': Can't find file.
+[2020.01.14-19.51.45:472][  0]LoadErrors: Failed to load /Game/vh_caravan_Roman_00/caravan.caravan_C Referenced by K2Node_CallFunction_1193
+[2020.01.14-19.51.45:472][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/vh_caravan_Roman_00/caravan': Can't find file.
+[2020.01.14-19.51.45:472][  0]LoadErrors: Failed to load /Game/vh_caravan_Roman_00/caravan.caravan_C Referenced by K2Node_CallFunction_1193
+[2020.01.14-19.51.45:472][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/vh_caravan_Roman_00/caravan': Can't find file.
+[2020.01.14-19.51.45:472][  0]LoadErrors: Failed to load /Game/vh_caravan_Roman_00/caravan.caravan_C Referenced by K2Node_GetArrayItem_8
+[2020.01.14-19.51.45:472][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/vh_caravan_Roman_00/caravan': Can't find file.
+[2020.01.14-19.51.45:472][  0]LoadErrors: Failed to load /Game/vh_caravan_Roman_00/caravan.caravan_C Referenced by K2Node_GetArrayItem_8
+[2020.01.14-19.51.45:472][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/vh_caravan_Roman_00/caravan': Can't find file.
+[2020.01.14-19.51.45:472][  0]LoadErrors: Failed to load /Game/vh_caravan_Roman_00/caravan.caravan_C Referenced by K2Node_GetArrayItem_8
+[2020.01.14-19.51.45:472][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/vh_caravan_Roman_00/caravan': Can't find file.
+[2020.01.14-19.51.45:472][  0]LoadErrors: Failed to load /Game/vh_caravan_Roman_00/caravan.caravan_C Referenced by K2Node_GetArrayItem_8
+[2020.01.14-19.51.45:473][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/vh_caravan_Roman_00/caravan': Can't find file.
+[2020.01.14-19.51.45:473][  0]LoadErrors: Failed to load /Game/vh_caravan_Roman_00/caravan.caravan_C Referenced by K2Node_CallFunction_1194
+[2020.01.14-19.51.45:473][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/vh_caravan_Roman_00/caravan': Can't find file.
+[2020.01.14-19.51.45:473][  0]LoadErrors: Failed to load /Game/vh_caravan_Roman_00/caravan.caravan_C Referenced by K2Node_CallFunction_1194
+[2020.01.14-19.51.45:473][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/vh_caravan_Roman_00/caravan': Can't find file.
+[2020.01.14-19.51.45:473][  0]LoadErrors: Failed to load /Game/vh_caravan_Roman_00/caravan.caravan_C Referenced by K2Node_CallFunction_1194
+[2020.01.14-19.51.45:473][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/vh_caravan_Roman_00/caravan': Can't find file.
+[2020.01.14-19.51.45:473][  0]LoadErrors: Failed to load /Game/vh_caravan_Roman_00/caravan.caravan_C Referenced by K2Node_CallFunction_1194
+[2020.01.14-19.51.45:796][  0]LogBlueprint: Warning: Timeline Timeline_1 Track NewTrack_2 in /Engine/Transient.REINST_Boss_nachselah_00_BP_C_32 has an invalid curve.  Please fix!
+[2020.01.14-19.51.45:960][  0]LogBlueprint: Error: [Compiler Boss_nachselah_00_BP] In use pin  <Unnamed>  no longer exists on node  Follow . Please refresh node or break links to remove pin.
+[2020.01.14-19.51.45:960][  0]LogBlueprint: Error: [Compiler Boss_nachselah_00_BP] In use pin  <Unnamed>  no longer exists on node  Follow . Please refresh node or break links to remove pin.
+[2020.01.14-19.51.45:960][  0]LogBlueprint: Error: [Compiler Boss_nachselah_00_BP] Could not find a function named "follow" in 'Boss_nachselah_00_BP'.
+Make sure 'Boss_nachselah_00_BP' has been compiled for  Follow
+[2020.01.14-19.51.45:978][  0]LogBlueprint: Error: [Compiler Boss_nachselah_00_BP] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2020.01.14-19.51.45:992][  0]LogBlueprint: Error: [Compiler bp_ch_hro_Taicho_Andrew] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2020.01.14-19.51.45:994][  0]LogBlueprint: Error: [Compiler bp_ch_hro_Taicho_Andrew] In use pin  <Unnamed>  no longer exists on node  Take Dmg . Please refresh node or break links to remove pin.
+[2020.01.14-19.51.45:994][  0]LogBlueprint: Error: [Compiler bp_ch_hro_Taicho_Andrew] In use pin  <Unnamed>  no longer exists on node  Take Dmg . Please refresh node or break links to remove pin.
+[2020.01.14-19.51.45:994][  0]LogBlueprint: Error: [Compiler bp_ch_hro_Taicho_Andrew] Could not find a function named "take dmg" in 'bp_ch_hro_Taicho_Andrew'.
+Make sure 'bp_ch_hro_Taicho_Andrew' has been compiled for  Take Dmg
+[2020.01.14-19.51.45:995][  0]LogBlueprint: Warning: [Compiler bp_ch_hro_Taicho_Andrew] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2020.01.14-19.51.45:996][  0]LogBlueprint: Warning: [Compiler bp_ch_hro_Taicho_Andrew] Input Axis Event references unknown Axis 'move_left' for  InputAxis move_left
+[2020.01.14-19.51.45:996][  0]LogBlueprint: Warning: [Compiler bp_ch_hro_Taicho_Andrew] Input Axis Event references unknown Axis 'move_back' for  InputAxis move_back
+[2020.01.14-19.51.45:996][  0]LogBlueprint: Warning: [Compiler bp_ch_hro_Taicho_Andrew] Input Axis Event references unknown Axis 'move_right' for  InputAxis move_right
+[2020.01.14-19.51.45:996][  0]LogBlueprint: Warning: [Compiler bp_ch_hro_Taicho_Andrew] Input Axis Event references unknown Axis 'move_forward' for  InputAxis move_forward
+[2020.01.14-19.51.45:996][  0]LogBlueprint: Error: [Compiler bp_ch_hro_Taicho_Andrew] In use pin  Caravan  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.01.14-19.51.45:996][  0]LogBlueprint: Error: [Compiler bp_ch_hro_Taicho_Andrew] In use pin  <Unnamed>  no longer exists on node  Unhide . Please refresh node or break links to remove pin.
+[2020.01.14-19.51.45:997][  0]LogBlueprint: Error: [Compiler bp_ch_hro_Taicho_Andrew] In use pin  Target  no longer exists on node  Unhide . Please refresh node or break links to remove pin.
+[2020.01.14-19.51.45:997][  0]LogBlueprint: Error: [Compiler bp_ch_hro_Taicho_Andrew] Could not find a function named "unhide" in 'bp_ch_hro_Taicho_Andrew'.
+Make sure 'bp_ch_hro_Taicho_Andrew' has been compiled for  Unhide
+[2020.01.14-19.51.45:997][  0]LogBlueprint: Error: [Compiler bp_ch_hro_Taicho_Andrew] In use pin  Caravan  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.01.14-19.51.45:997][  0]LogBlueprint: Warning: [Compiler bp_ch_hro_Taicho_Andrew] Could not find a variable named "target" in 'bp_ch_hro_Taicho_Andrew'.
+Make sure 'bp_ch_hro_Taicho_Andrew' has been compiled for  Get target
+[2020.01.14-19.51.45:997][  0]LogBlueprint: Error: [Compiler bp_ch_hro_Taicho_Andrew] In use pin  Caravan  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.01.14-19.51.45:997][  0]LogBlueprint: Error: [Compiler bp_ch_hro_Taicho_Andrew] In use pin  Caravan  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.01.14-19.51.45:997][  0]LogBlueprint: Error: [Compiler bp_ch_hro_Taicho_Andrew] In use pin  <Unnamed>  no longer exists on node  Follow . Please refresh node or break links to remove pin.
+[2020.01.14-19.51.45:997][  0]LogBlueprint: Error: [Compiler bp_ch_hro_Taicho_Andrew] Could not find a function named "follow" in 'bp_ch_hro_Taicho_Andrew'.
+Make sure 'bp_ch_hro_Taicho_Andrew' has been compiled for  Follow
+[2020.01.14-19.51.46:000][  0]LogBlueprint: Error: [Compiler bp_ch_hro_Taicho_Andrew] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2020.01.14-19.51.46:000][  0]LogBlueprint: Error: [Compiler bp_ch_hro_Taicho_Andrew] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2020.01.14-19.51.46:056][  0]LogBlueprint: Error: [Compiler bp_ch_hro_Taicho_Andrew] The property associated with  Target  could not be found in '/Game/ch_hm_TaichoSensei/bp_ch_hro_Taicho_Andrew.bp_ch_hro_Taicho_Andrew_C'
+[2020.01.14-19.51.46:233][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/vh_caravan_Roman_00/caravan': Can't find file.
+[2020.01.14-19.51.46:233][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/vh_caravan_Roman_00/caravan': Can't find file.
+[2020.01.14-19.51.46:234][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/Materials_Master/Tools/sk_bones_': Can't find file.
+[2020.01.14-19.51.46:235][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/Materials_Master/Tools/sk_bones_': Can't find file.
+[2020.01.14-19.51.46:238][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/Materials_Master/Tools/sk_bones_': Can't find file.
+[2020.01.14-19.51.46:238][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/Materials_Master/Tools/sk_bones_': Can't find file.
+[2020.01.14-19.51.46:238][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/vh_caravan_Roman_00/caravan': Can't find file.
+[2020.01.14-19.51.46:238][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Blueprints/Boss_nachselah_00_BP.uasset' failed to load '/Game/vh_caravan_Roman_00/caravan': Can't find file.
+[2020.01.14-19.51.49:091][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/testMesh/st_boss_nachselah_00_eyes.uasset' failed to load '/Game/boss_NaChH-SeLaH/testMesh/m_an_nachselah_eye_lens': Can't find file.
+[2020.01.14-19.51.49:091][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/testMesh/st_boss_nachselah_00_eyes.uasset' failed to load '/Game/boss_NaChH-SeLaH/testMesh/m_an_nachselah_eye_lens': Can't find file.
+[2020.01.14-19.51.49:153][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/testMesh/st_boss_nachselah_00_eyes.uasset' failed to load '/Game/boss_NaChH-SeLaH/testMesh/m_an_nachselah_eye_lens': Can't find file.
+[2020.01.14-19.51.49:153][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/testMesh/st_boss_nachselah_00_eyes.uasset' failed to load '/Game/boss_NaChH-SeLaH/testMesh/m_an_nachselah_eye_lens': Can't find file.
+[2020.01.14-19.51.49:899][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/fire.uasset' failed to load '/Game/audio/a_sfx/XP_Explode_00_Cue': Can't find file.
+[2020.01.14-19.51.49:900][  0]LoadErrors: Failed to load /Game/audio/a_sfx/XP_Explode_00_Cue.XP_Explode_00_Cue Referenced by AnimNotify_PlaySound_0
+[2020.01.14-19.51.49:900][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/fire.uasset' failed to load '/Game/audio/a_sfx/XP_Explode_00_Cue': Can't find file.
+[2020.01.14-19.51.49:900][  0]LoadErrors: Failed to load /Game/audio/a_sfx/XP_Explode_00_Cue.XP_Explode_00_Cue Referenced by AnimNotify_PlaySound_0
+[2020.01.14-19.51.49:900][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/fire.uasset' failed to load '/Game/vfx/p_fire_00': Can't find file.
+[2020.01.14-19.51.49:900][  0]LoadErrors: Failed to load /Game/vfx/p_fire_00.p_fire_00 Referenced by AnimNotifyState_TimedParticleEffect_0
+[2020.01.14-19.51.49:900][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/fire.uasset' failed to load '/Game/vfx/p_fire_00': Can't find file.
+[2020.01.14-19.51.49:900][  0]LoadErrors: Failed to load /Game/vfx/p_fire_00.p_fire_00 Referenced by AnimNotifyState_TimedParticleEffect_0
+[2020.01.14-19.51.49:939][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/ko.uasset' failed to load '/Game/audio/a_sfx/CH_Hit_Kick_Md_01_Cue': Can't find file.
+[2020.01.14-19.51.49:939][  0]LoadErrors: Failed to load /Game/audio/a_sfx/CH_Hit_Kick_Md_01_Cue.CH_Hit_Kick_Md_01_Cue Referenced by AnimNotify_PlaySound_0
+[2020.01.14-19.51.49:939][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/ko.uasset' failed to load '/Game/audio/a_sfx/CH_Hit_Kick_Md_01_Cue': Can't find file.
+[2020.01.14-19.51.49:939][  0]LoadErrors: Failed to load /Game/audio/a_sfx/CH_Hit_Kick_Md_01_Cue.CH_Hit_Kick_Md_01_Cue Referenced by AnimNotify_PlaySound_0
+[2020.01.14-19.51.49:939][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/ko.uasset' failed to load '/Game/audio/a_sfx/CH_Hit_KO_02_Cue': Can't find file.
+[2020.01.14-19.51.49:939][  0]LoadErrors: Failed to load /Game/audio/a_sfx/CH_Hit_KO_02_Cue.CH_Hit_KO_02_Cue Referenced by AnimNotify_PlaySound_1
+[2020.01.14-19.51.49:939][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/ko.uasset' failed to load '/Game/audio/a_sfx/CH_Hit_KO_02_Cue': Can't find file.
+[2020.01.14-19.51.49:939][  0]LoadErrors: Failed to load /Game/audio/a_sfx/CH_Hit_KO_02_Cue.CH_Hit_KO_02_Cue Referenced by AnimNotify_PlaySound_1
+[2020.01.14-19.51.49:940][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/hit.uasset' failed to load '/Game/audio/a_sfx/CH_Hit_Kick_Md_01_Cue': Can't find file.
+[2020.01.14-19.51.49:940][  0]LoadErrors: Failed to load /Game/audio/a_sfx/CH_Hit_Kick_Md_01_Cue.CH_Hit_Kick_Md_01_Cue Referenced by AnimNotify_PlaySound_0
+[2020.01.14-19.51.49:940][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/hit.uasset' failed to load '/Game/audio/a_sfx/CH_Hit_Kick_Md_01_Cue': Can't find file.
+[2020.01.14-19.51.49:940][  0]LoadErrors: Failed to load /Game/audio/a_sfx/CH_Hit_Kick_Md_01_Cue.CH_Hit_Kick_Md_01_Cue Referenced by AnimNotify_PlaySound_0
+[2020.01.14-19.51.49:994][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/attck2.uasset' failed to load '/Game/audio/a_vo/a_cue_boss_nachselah_lion_moan_00': Can't find file.
+[2020.01.14-19.51.49:994][  0]LoadErrors: Failed to load /Game/audio/a_vo/a_cue_boss_nachselah_lion_moan_00.a_cue_boss_nachselah_lion_moan_00 Referenced by AnimNotify_PlaySound_0
+[2020.01.14-19.51.49:994][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/attck2.uasset' failed to load '/Game/audio/a_vo/a_cue_boss_nachselah_lion_moan_00': Can't find file.
+[2020.01.14-19.51.49:994][  0]LoadErrors: Failed to load /Game/audio/a_vo/a_cue_boss_nachselah_lion_moan_00.a_cue_boss_nachselah_lion_moan_00 Referenced by AnimNotify_PlaySound_0
+[2020.01.14-19.51.49:994][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/attck1.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_whoosh': Can't find file.
+[2020.01.14-19.51.49:994][  0]LoadErrors: Failed to load /Game/audio/a_sfx/a_sfx_boss_whoosh.a_sfx_boss_whoosh Referenced by AnimNotify_PlaySound_0
+[2020.01.14-19.51.49:994][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/attck1.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_whoosh': Can't find file.
+[2020.01.14-19.51.49:995][  0]LoadErrors: Failed to load /Game/audio/a_sfx/a_sfx_boss_whoosh.a_sfx_boss_whoosh Referenced by AnimNotify_PlaySound_0
+[2020.01.14-19.51.49:995][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/attck1.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_rollingDirt': Can't find file.
+[2020.01.14-19.51.49:995][  0]LoadErrors: Failed to load /Game/audio/a_sfx/a_sfx_boss_rollingDirt.a_sfx_boss_rollingDirt Referenced by AnimNotify_PlaySound_1
+[2020.01.14-19.51.49:995][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/attck1.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_rollingDirt': Can't find file.
+[2020.01.14-19.51.49:995][  0]LoadErrors: Failed to load /Game/audio/a_sfx/a_sfx_boss_rollingDirt.a_sfx_boss_rollingDirt Referenced by AnimNotify_PlaySound_1
+[2020.01.14-19.51.49:995][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/edited_anims/attck0_3.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_whoosh': Can't find file.
+[2020.01.14-19.51.49:995][  0]LoadErrors: Failed to load /Game/audio/a_sfx/a_sfx_boss_whoosh.a_sfx_boss_whoosh Referenced by AnimNotify_PlaySound_2
+[2020.01.14-19.51.49:995][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/edited_anims/attck0_3.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_whoosh': Can't find file.
+[2020.01.14-19.51.49:995][  0]LoadErrors: Failed to load /Game/audio/a_sfx/a_sfx_boss_whoosh.a_sfx_boss_whoosh Referenced by AnimNotify_PlaySound_2
+[2020.01.14-19.51.49:996][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/edited_anims/attck0_3.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_smash': Can't find file.
+[2020.01.14-19.51.49:996][  0]LoadErrors: Failed to load /Game/audio/a_sfx/a_sfx_boss_smash.a_sfx_boss_smash Referenced by AnimNotify_PlaySound_3
+[2020.01.14-19.51.49:996][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/edited_anims/attck0_3.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_smash': Can't find file.
+[2020.01.14-19.51.49:996][  0]LoadErrors: Failed to load /Game/audio/a_sfx/a_sfx_boss_smash.a_sfx_boss_smash Referenced by AnimNotify_PlaySound_3
+[2020.01.14-19.51.49:996][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/edited_anims/attck0_3.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_rollingDirt': Can't find file.
+[2020.01.14-19.51.49:996][  0]LoadErrors: Failed to load /Game/audio/a_sfx/a_sfx_boss_rollingDirt.a_sfx_boss_rollingDirt Referenced by AnimNotify_PlaySound_4
+[2020.01.14-19.51.49:996][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/edited_anims/attck0_3.uasset' failed to load '/Game/audio/a_sfx/a_sfx_boss_rollingDirt': Can't find file.
+[2020.01.14-19.51.49:996][  0]LoadErrors: Failed to load /Game/audio/a_sfx/a_sfx_boss_rollingDirt.a_sfx_boss_rollingDirt Referenced by AnimNotify_PlaySound_4
+[2020.01.14-19.51.49:996][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/edited_anims/attck0_3.uasset' failed to load '/Game/vfx/vfx_rockBlowout_00': Can't find file.
+[2020.01.14-19.51.49:996][  0]LoadErrors: Failed to load /Game/vfx/vfx_rockBlowout_00.vfx_rockBlowout_00 Referenced by AnimNotifyState_TimedParticleEffect_0
+[2020.01.14-19.51.49:996][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/edited_anims/attck0_3.uasset' failed to load '/Game/vfx/vfx_rockBlowout_00': Can't find file.
+[2020.01.14-19.51.49:996][  0]LoadErrors: Failed to load /Game/vfx/vfx_rockBlowout_00.vfx_rockBlowout_00 Referenced by AnimNotifyState_TimedParticleEffect_0
+[2020.01.14-19.51.50:009][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/testMesh/mf_an_nachselah_body_plate.uasset' failed to load '/Game/Materials_Master/Tools/mfu_fresnel': Can't find file.
+[2020.01.14-19.51.50:009][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_fresnel.mfu_fresnel Referenced by MaterialExpressionMaterialFunctionCall_2
+[2020.01.14-19.51.50:009][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/testMesh/mf_an_nachselah_body_plate.uasset' failed to load '/Game/Materials_Master/Tools/mfu_fresnel': Can't find file.
+[2020.01.14-19.51.50:009][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_fresnel.mfu_fresnel Referenced by MaterialExpressionMaterialFunctionCall_2
+[2020.01.14-19.51.50:009][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/testMesh/mf_an_nachselah_body_plate.uasset' failed to load '/Game/Materials_Master/Tools/mf_NormalMap_Combine': Can't find file.
+[2020.01.14-19.51.50:009][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mf_NormalMap_Combine.mf_NormalMap_Combine Referenced by MaterialExpressionMaterialFunctionCall_4
+[2020.01.14-19.51.50:009][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/testMesh/mf_an_nachselah_body_plate.uasset' failed to load '/Game/Materials_Master/Tools/mf_NormalMap_Combine': Can't find file.
+[2020.01.14-19.51.50:009][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mf_NormalMap_Combine.mf_NormalMap_Combine Referenced by MaterialExpressionMaterialFunctionCall_4
+[2020.01.14-19.51.50:022][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/testMesh/mf_an_nachselah_body_plate.uasset' failed to load '/Game/env_lapis/t_env_wall_lapisLazuli_00_N_00': Can't find file.
+[2020.01.14-19.51.50:022][  0]LoadErrors: Failed to load /Game/env_lapis/t_env_wall_lapisLazuli_00_N_00.t_env_wall_lapisLazuli_00_N_00 Referenced by MaterialExpressionTextureSample_7
+[2020.01.14-19.51.50:022][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/testMesh/mf_an_nachselah_body_plate.uasset' failed to load '/Game/env_lapis/t_env_wall_lapisLazuli_00_N_00': Can't find file.
+[2020.01.14-19.51.50:022][  0]LoadErrors: Failed to load /Game/env_lapis/t_env_wall_lapisLazuli_00_N_00.t_env_wall_lapisLazuli_00_N_00 Referenced by MaterialExpressionTextureSample_7
+[2020.01.14-19.51.50:025][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mi_nachselah_eye_lensCornea.uasset' failed to load '/Game/Materials_Master/Glass/mi_eye_lensCornea': Can't find file.
+[2020.01.14-19.51.50:025][  0]LoadErrors: Failed to load /Game/Materials_Master/Glass/mi_eye_lensCornea.mi_eye_lensCornea Referenced by mi_nachselah_eye_lensCornea
+[2020.01.14-19.51.50:025][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mi_nachselah_eye_lensCornea.uasset' failed to load '/Game/Materials_Master/Glass/mi_eye_lensCornea': Can't find file.
+[2020.01.14-19.51.50:025][  0]LoadErrors: Failed to load /Game/Materials_Master/Glass/mi_eye_lensCornea.mi_eye_lensCornea Referenced by mi_nachselah_eye_lensCornea
+[2020.01.14-19.51.50:025][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mi_nachselah_eye_lens.uasset' failed to load '/Game/Materials_Master/Glass/mi_eye_lensCornea': Can't find file.
+[2020.01.14-19.51.50:025][  0]LoadErrors: Failed to load /Game/Materials_Master/Glass/mi_eye_lensCornea.mi_eye_lensCornea Referenced by mi_nachselah_eye_lens
+[2020.01.14-19.51.50:026][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mi_nachselah_eye_lens.uasset' failed to load '/Game/Materials_Master/Glass/mi_eye_lensCornea': Can't find file.
+[2020.01.14-19.51.50:026][  0]LoadErrors: Failed to load /Game/Materials_Master/Glass/mi_eye_lensCornea.mi_eye_lensCornea Referenced by mi_nachselah_eye_lens
+[2020.01.14-19.51.50:063][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/particles/vfx_trail_action_lines.uasset' failed to load '/Game/vfx/vfx_materials/m_vfx_explosion_feathered': Can't find file.
+[2020.01.14-19.51.50:063][  0]LoadErrors: Failed to load /Game/vfx/vfx_materials/m_vfx_explosion_feathered.m_vfx_explosion_feathered Referenced by ParticleModuleRequired_0
+[2020.01.14-19.51.50:063][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/particles/vfx_trail_action_lines.uasset' failed to load '/Game/vfx/vfx_materials/m_vfx_explosion_feathered': Can't find file.
+[2020.01.14-19.51.50:063][  0]LoadErrors: Failed to load /Game/vfx/vfx_materials/m_vfx_explosion_feathered.m_vfx_explosion_feathered Referenced by ParticleModuleRequired_0
+[2020.01.14-19.51.50:063][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/particles/vfx_trail_action_lines.uasset' failed to load '/Game/vfx_segovia_DONOTUSE/P_Slash/Material/m_vfx_animTrail_00': Can't find file.
+[2020.01.14-19.51.50:063][  0]LoadErrors: Failed to load /Game/vfx_segovia_DONOTUSE/P_Slash/Material/m_vfx_animTrail_00.m_vfx_animTrail_00 Referenced by ParticleModuleRequired_1
+[2020.01.14-19.51.50:063][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/particles/vfx_trail_action_lines.uasset' failed to load '/Game/vfx_segovia_DONOTUSE/P_Slash/Material/m_vfx_animTrail_00': Can't find file.
+[2020.01.14-19.51.50:063][  0]LoadErrors: Failed to load /Game/vfx_segovia_DONOTUSE/P_Slash/Material/m_vfx_animTrail_00.m_vfx_animTrail_00 Referenced by ParticleModuleRequired_1
+[2020.01.14-19.51.50:063][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/particles/vfx_trail_action_lines.uasset' failed to load '/Game/vfx_segovia_DONOTUSE/P_Slash/Material/m_vfx_animTrail_00': Can't find file.
+[2020.01.14-19.51.50:064][  0]LoadErrors: Failed to load /Game/vfx_segovia_DONOTUSE/P_Slash/Material/m_vfx_animTrail_00.m_vfx_animTrail_00 Referenced by ParticleModuleRequired_2
+[2020.01.14-19.51.50:064][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/particles/vfx_trail_action_lines.uasset' failed to load '/Game/vfx_segovia_DONOTUSE/P_Slash/Material/m_vfx_animTrail_00': Can't find file.
+[2020.01.14-19.51.50:064][  0]LoadErrors: Failed to load /Game/vfx_segovia_DONOTUSE/P_Slash/Material/m_vfx_animTrail_00.m_vfx_animTrail_00 Referenced by ParticleModuleRequired_2
+[2020.01.14-19.51.50:066][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mf_an_nachselah_body_stone.uasset' failed to load '/Game/Materials_Master/Tools/mfu_fresnel': Can't find file.
+[2020.01.14-19.51.50:066][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_fresnel.mfu_fresnel Referenced by MaterialExpressionMaterialFunctionCall_2
+[2020.01.14-19.51.50:066][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mf_an_nachselah_body_stone.uasset' failed to load '/Game/Materials_Master/Tools/mfu_fresnel': Can't find file.
+[2020.01.14-19.51.50:066][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_fresnel.mfu_fresnel Referenced by MaterialExpressionMaterialFunctionCall_2
+[2020.01.14-19.51.50:066][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mf_an_nachselah_body_stone.uasset' failed to load '/Game/Materials_Master/Tools/mf_NormalMap_Combine': Can't find file.
+[2020.01.14-19.51.50:066][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mf_NormalMap_Combine.mf_NormalMap_Combine Referenced by MaterialExpressionMaterialFunctionCall_4
+[2020.01.14-19.51.50:067][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mf_an_nachselah_body_stone.uasset' failed to load '/Game/Materials_Master/Tools/mf_NormalMap_Combine': Can't find file.
+[2020.01.14-19.51.50:067][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mf_NormalMap_Combine.mf_NormalMap_Combine Referenced by MaterialExpressionMaterialFunctionCall_4
+[2020.01.14-19.51.50:067][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mf_an_nachselah_body_stone.uasset' failed to load '/Game/Materials_Master/Tools/mfu_fresnel': Can't find file.
+[2020.01.14-19.51.50:067][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_fresnel.mfu_fresnel Referenced by MaterialExpressionMaterialFunctionCall_5
+[2020.01.14-19.51.50:067][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mf_an_nachselah_body_stone.uasset' failed to load '/Game/Materials_Master/Tools/mfu_fresnel': Can't find file.
+[2020.01.14-19.51.50:067][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_fresnel.mfu_fresnel Referenced by MaterialExpressionMaterialFunctionCall_5
+[2020.01.14-19.51.50:067][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mf_an_nachselah_body_stone.uasset' failed to load '/Game/env_lapis/t_env_wall_lapisLazuli_00_N_00': Can't find file.
+[2020.01.14-19.51.50:067][  0]LoadErrors: Failed to load /Game/env_lapis/t_env_wall_lapisLazuli_00_N_00.t_env_wall_lapisLazuli_00_N_00 Referenced by MaterialExpressionTextureSample_7
+[2020.01.14-19.51.50:067][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/mf_an_nachselah_body_stone.uasset' failed to load '/Game/env_lapis/t_env_wall_lapisLazuli_00_N_00': Can't find file.
+[2020.01.14-19.51.50:067][  0]LoadErrors: Failed to load /Game/env_lapis/t_env_wall_lapisLazuli_00_N_00.t_env_wall_lapisLazuli_00_N_00 Referenced by MaterialExpressionTextureSample_7
+[2020.01.14-19.51.50:068][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/m_an_rockCreature_stone.uasset' failed to load '/Game/Materials_Master/Tools/mf_NormalMap_Combine': Can't find file.
+[2020.01.14-19.51.50:068][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mf_NormalMap_Combine.mf_NormalMap_Combine Referenced by m_an_rockCreature_stone
+[2020.01.14-19.51.50:068][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/m_an_rockCreature_stone.uasset' failed to load '/Game/Materials_Master/Tools/mf_NormalMap_Combine': Can't find file.
+[2020.01.14-19.51.50:068][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mf_NormalMap_Combine.mf_NormalMap_Combine Referenced by m_an_rockCreature_stone
+[2020.01.14-19.51.50:068][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/m_an_rockCreature_stone.uasset' failed to load '/Game/Materials_Master/Tools/mfu_fresnel': Can't find file.
+[2020.01.14-19.51.50:068][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_fresnel.mfu_fresnel Referenced by m_an_rockCreature_stone
+[2020.01.14-19.51.50:068][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/m_an_rockCreature_stone.uasset' failed to load '/Game/Materials_Master/Tools/mfu_fresnel': Can't find file.
+[2020.01.14-19.51.50:068][  0]LoadErrors: Failed to load /Game/Materials_Master/Tools/mfu_fresnel.mfu_fresnel Referenced by m_an_rockCreature_stone
+[2020.01.14-19.51.50:068][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/m_an_rockCreature_stone.uasset' failed to load '/Game/Materials_Master/Material_Functions/MF_Pulse': Can't find file.
+[2020.01.14-19.51.50:068][  0]LoadErrors: Failed to load /Game/Materials_Master/Material_Functions/MF_Pulse.MF_Pulse Referenced by m_an_rockCreature_stone
+[2020.01.14-19.51.50:068][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/m_an_rockCreature_stone.uasset' failed to load '/Game/Materials_Master/Material_Functions/MF_Pulse': Can't find file.
+[2020.01.14-19.51.50:068][  0]LoadErrors: Failed to load /Game/Materials_Master/Material_Functions/MF_Pulse.MF_Pulse Referenced by m_an_rockCreature_stone
+[2020.01.14-19.51.50:069][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/m_an_rockCreature_stone.uasset' failed to load '/Game/Materials_Master/Material_Functions/MF_Pulse': Can't find file.
+[2020.01.14-19.51.50:069][  0]LoadErrors: Failed to load /Game/Materials_Master/Material_Functions/MF_Pulse.MF_Pulse Referenced by MaterialExpressionMaterialFunctionCall_1
+[2020.01.14-19.51.50:069][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/Materials/m_an_rockCreature_stone.uasset' failed to load '/Game/Materials_Master/Material_Functions/MF_Pulse': Can't find file.
+[2020.01.14-19.51.50:069][  0]LoadErrors: Failed to load /Game/Materials_Master/Material_Functions/MF_Pulse.MF_Pulse Referenced by MaterialExpressionMaterialFunctionCall_1
+[2020.01.14-19.51.50:759][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/testMesh/st_boss_nachselah_00_eyes.uasset' failed to load '/Game/boss_NaChH-SeLaH/testMesh/m_an_nachselah_eye_lens': Can't find file.
+[2020.01.14-19.51.50:759][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/testMesh/m_an_nachselah_eye_lens.m_an_nachselah_eye_lens Referenced by st_boss_nachselah_00_eyes
+[2020.01.14-19.51.50:759][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/testMesh/st_boss_nachselah_00_eyes.uasset' failed to load '/Game/boss_NaChH-SeLaH/testMesh/m_an_nachselah_eye_lens': Can't find file.
+[2020.01.14-19.51.50:760][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/testMesh/m_an_nachselah_eye_lens.m_an_nachselah_eye_lens Referenced by st_boss_nachselah_00_eyes
+[2020.01.14-19.51.50:760][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/testMesh/st_boss_nachselah_00_eyes.uasset' failed to load '/Game/boss_NaChH-SeLaH/testMesh/m_an_nachselah_eye_lens': Can't find file.
+[2020.01.14-19.51.50:760][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/testMesh/m_an_nachselah_eye_lens.m_an_nachselah_eye_lens Referenced by st_boss_nachselah_00_eyes
+[2020.01.14-19.51.50:760][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/testMesh/st_boss_nachselah_00_eyes.uasset' failed to load '/Game/boss_NaChH-SeLaH/testMesh/m_an_nachselah_eye_lens': Can't find file.
+[2020.01.14-19.51.50:760][  0]LoadErrors: Failed to load /Game/boss_NaChH-SeLaH/testMesh/m_an_nachselah_eye_lens.m_an_nachselah_eye_lens Referenced by st_boss_nachselah_00_eyes
+[2020.01.14-19.51.50:842][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/walk.uasset' failed to load '/Game/audio/a_sfx/Boss_Mv_Walk_00_Cue': Can't find file.
+[2020.01.14-19.51.50:842][  0]LoadErrors: Failed to load /Game/audio/a_sfx/Boss_Mv_Walk_00_Cue.Boss_Mv_Walk_00_Cue Referenced by AnimNotify_PlaySound_0
+[2020.01.14-19.51.50:842][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/walk.uasset' failed to load '/Game/audio/a_sfx/Boss_Mv_Walk_00_Cue': Can't find file.
+[2020.01.14-19.51.50:842][  0]LoadErrors: Failed to load /Game/audio/a_sfx/Boss_Mv_Walk_00_Cue.Boss_Mv_Walk_00_Cue Referenced by AnimNotify_PlaySound_0
+[2020.01.14-19.51.50:843][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/walk.uasset' failed to load '/Game/audio/a_sfx/Boss_Mv_Walk_00_Cue': Can't find file.
+[2020.01.14-19.51.50:843][  0]LoadErrors: Failed to load /Game/audio/a_sfx/Boss_Mv_Walk_00_Cue.Boss_Mv_Walk_00_Cue Referenced by AnimNotify_PlaySound_1
+[2020.01.14-19.51.50:843][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/walk.uasset' failed to load '/Game/audio/a_sfx/Boss_Mv_Walk_00_Cue': Can't find file.
+[2020.01.14-19.51.50:843][  0]LoadErrors: Failed to load /Game/audio/a_sfx/Boss_Mv_Walk_00_Cue.Boss_Mv_Walk_00_Cue Referenced by AnimNotify_PlaySound_1
+[2020.01.14-19.51.50:843][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/walk.uasset' failed to load '/Game/audio/a_sfx/Boss_Mv_Walk_00_Cue': Can't find file.
+[2020.01.14-19.51.50:843][  0]LoadErrors: Failed to load /Game/audio/a_sfx/Boss_Mv_Walk_00_Cue.Boss_Mv_Walk_00_Cue Referenced by AnimNotify_PlaySound_2
+[2020.01.14-19.51.50:843][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/walk.uasset' failed to load '/Game/audio/a_sfx/Boss_Mv_Walk_00_Cue': Can't find file.
+[2020.01.14-19.51.50:843][  0]LoadErrors: Failed to load /Game/audio/a_sfx/Boss_Mv_Walk_00_Cue.Boss_Mv_Walk_00_Cue Referenced by AnimNotify_PlaySound_2
+[2020.01.14-19.51.50:843][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/walk.uasset' failed to load '/Game/audio/a_sfx/Boss_Mv_Walk_00_Cue': Can't find file.
+[2020.01.14-19.51.50:843][  0]LoadErrors: Failed to load /Game/audio/a_sfx/Boss_Mv_Walk_00_Cue.Boss_Mv_Walk_00_Cue Referenced by AnimNotify_PlaySound_3
+[2020.01.14-19.51.50:843][  0]LogLinker: Warning: While loading '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/boss_NaChH-SeLaH/animations/walk.uasset' failed to load '/Game/audio/a_sfx/Boss_Mv_Walk_00_Cue': Can't find file.
+[2020.01.14-19.51.50:843][  0]LoadErrors: Failed to load /Game/audio/a_sfx/Boss_Mv_Walk_00_Cue.Boss_Mv_Walk_00_Cue Referenced by AnimNotify_PlaySound_3
+[2020.01.14-19.51.51:033][  0]LogMaterial: Display: Missing cached shader map for material m_sagiten_new, compiling. 
+[2020.01.14-19.51.51:081][  0]LogMaterial: Warning: D:\Games\Epic Games\Unreal_Projects\GitRepo\CombatSimulator_Prat\CombatSim\Content\ch_hm_TaichoSensei\Materials\m_sagiten_new.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.14-19.51.51:081][  0]LogMaterial: Display: 	(Node BreakMaterialAttributes) Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+[2020.01.14-19.51.51:481][  0]LogMaterial: Display: Missing cached shader map for material m_an_rockCreature_plate, compiling. 
+[2020.01.14-19.51.51:483][  0]LogMaterial: Warning: D:\Games\Epic Games\Unreal_Projects\GitRepo\CombatSimulator_Prat\CombatSim\Content\boss_NaChH-SeLaH\testMesh\m_an_rockCreature_plate.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.14-19.51.51:483][  0]LogMaterial: Display: 	Function mf_an_nachselah_body_plate: Missing Material Function
+[2020.01.14-19.51.51:483][  0]LogMaterial: Display: 	Function mf_an_nachselah_body_plate: (Node MakeMaterialAttributes) Error on property Normal
+[2020.01.14-19.51.51:483][  0]LogMaterial: Display: 	Function mf_an_nachselah_body_plate: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.01.14-19.51.51:488][  0]LogMaterial: Display: Missing cached shader map for material m_an_nachselah_body, compiling. 
+[2020.01.14-19.51.51:488][  0]LogMaterial: Warning: D:\Games\Epic Games\Unreal_Projects\GitRepo\CombatSimulator_Prat\CombatSim\Content\boss_NaChH-SeLaH\Materials\m_an_nachselah_body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.14-19.51.51:488][  0]LogMaterial: Display: 	Missing Material Function
+[2020.01.14-19.51.51:555][  0]LogMaterial: Display: Missing cached shader map for material m_an_rockCreature_stone, compiling. 
+[2020.01.14-19.51.51:556][  0]LogMaterial: Warning: D:\Games\Epic Games\Unreal_Projects\GitRepo\CombatSimulator_Prat\CombatSim\Content\boss_NaChH-SeLaH\Materials\m_an_rockCreature_stone.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.14-19.51.51:556][  0]LogMaterial: Display: 	Function mf_an_nachselah_body_stone: Missing Material Function
+[2020.01.14-19.51.51:556][  0]LogMaterial: Display: 	Function mf_an_nachselah_body_stone: (Node MakeMaterialAttributes) Error on property Normal
+[2020.01.14-19.51.51:556][  0]LogMaterial: Display: 	Function mf_an_nachselah_body_stone: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.01.14-19.51.51:556][  0]LogMaterial: Display: 	Function mf_an_nachselah_body_stone: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.01.14-19.51.51:881][  0]LogNiagaraEditor: Verbose: '/Game/FX/slash_generic_ns' Precompile took 0.041661 sec.
+[2020.01.14-19.51.52:104][  0]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/slash_generic_ns.slash_generic_ns:slash_generic_ne_1.GPUComputeScript_4 ...................................................................
+[2020.01.14-19.51.52:104][  0]LogNiagaraCompiler: Display: Function call "InitialMeshRotation" is deprecated. Please use /Niagara/Modules/Spawn/Orientation/V2/InitialMeshOrientation.InitialMeshOrientation instead. - Node: NiagaraNodeFunctionCall_3 -  System Asset: NiagaraScript /Game/FX/slash_generic_ns.slash_generic_ns:slash_generic_ne_1.GPUComputeScript_4
+[2020.01.14-19.51.52:104][  0]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/slash_generic_ns.slash_generic_ns:slash_generic_ne_1.GPUComputeScript_4 took 0.013889 sec (0.013798/0.000000)... Status NCS_UpToDate
+[2020.01.14-19.51.52:707][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.14-19.51.53:127][  0]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/slash_generic_ns.slash_generic_ns:slash_generic_ne_1.GPUComputeScript_4' was built locally..
+[2020.01.14-19.51.53:144][  0]LogTemp: Display: Loading shader for Niagara script NiagaraScript /Game/FX/slash_generic_ns.slash_generic_ns:slash_generic_ne_1.GPUComputeScript_4 from DDC failed. Shader needs recompile.
+[2020.01.14-19.51.53:449][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.14-19.51.53:553][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.01.14-19.51.53:553][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.14-19.51.53:580][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 26.394ms to complete.
+[2020.01.14-19.51.53:580][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 12.803
+[2020.01.14-19.51.56:071][  0]LogCollectionManager: Loaded 0 collections in 0.000820 seconds
+[2020.01.14-19.51.56:355][  0]LogFileCache: Scanning file cache for directory 'D:/Games/Epic Games/Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Saved/Collections/' took 0.00s
+[2020.01.14-19.51.56:355][  0]LogFileCache: Scanning file cache for directory 'D:/Games/Epic Games/Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/Developers/Pratyush/Collections/' took 0.00s
+[2020.01.14-19.51.56:355][  0]LogFileCache: Scanning file cache for directory 'D:/Games/Epic Games/Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/Collections/' took 0.00s
+[2020.01.14-19.51.56:355][  0]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 3165 classes and 735 folders.
+[2020.01.14-19.51.56:468][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.14-19.51.58:666][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.14-19.51.59:134][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-19.51.59:140][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-19.51.59:146][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-19.51.59:152][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-19.51.59:871][  0]LogSlate: Took 0.015887 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.14-19.51.59:923][  0]LogSlate: Took 0.051541 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.14-19.52.00:009][  0]LogSlate: Took 0.014284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.14-19.52.00:362][  0]LogRenderer: Reallocating scene render targets to support 1512x924 Format 9 NumSamples 1 (Frame:1).
+[2020.01.14-19.52.01:058][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.14-19.52.01:058][  0]LogLoad: (Engine Initialization) Total time: 117.50 seconds
+[2020.01.14-19.52.01:058][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.14-19.52.01:139][  0]LogNiagaraShaderCompiler: Compile Job processing... slash_generic_ne/FNiagaraShader/0
+[2020.01.14-19.52.01:829][  0]LogNiagaraShaderCompiler: GPU shader compile succeeded. Id 2
+[2020.01.14-19.52.01:829][  0]LogNiagaraShaderCompiler: There were NO errors for job "slash_generic_ne/FNiagaraShader/0"
+[2020.01.14-19.52.02:062][  0]LogContentStreaming: Texture pool size now 600 MB
+[2020.01.14-19.52.02:478][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Games/Epic Games/Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/' took 0.63s
+[2020.01.14-19.52.04:315][ 24]LogAssetRegistry: Asset discovery search completed in 65.0194 seconds
+[2020.01.14-19.52.04:318][ 24]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2020.01.14-19.52.15:754][258]LogSlate: Window 'Message Log' being destroyed
+[2020.01.14-19.52.15:847][258]LogSlate: Window 'Message Log' being destroyed
+[2020.01.14-19.52.19:040][602]LogSlate: Took 0.016349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.14-19.52.19:059][602]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ch_hm_TaichoSensei/bp_ch_hro_Taicho_Andrew.bp_ch_hro_Taicho_Andrew
+[2020.01.14-19.52.19:941][602]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.01.14-19.52.21:539][602]LogSlate: Took 0.018263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.14-19.52.22:272][603]LogSlate: Took 0.001293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.14-19.52.29:155][949]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ch_hm_TaichoSensei/Warrior_BP.Warrior_BP
+[2020.01.14-19.52.30:454][ 11]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ch_hm_TaichoSensei/Warrior_ABP.Warrior_ABP
+[2020.01.14-19.52.30:642][ 11]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.01.14-19.52.31:289][ 11]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.14-19.52.31:318][ 11]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2020.01.14-19.52.31:738][ 11]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.14-19.55.38:011][463]BlueprintLog: New page: Compile Warrior_BP
+[2020.01.14-19.55.38:904][463]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2020.01.14-19.55.41:774][726]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.14-19.55.41:795][726]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.14-19.55.41:795][726]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.14-19.55.41:795][726]BlueprintLog: Warning: Blueprint failed to compile:  Boss_nachselah_00_BP
+[2020.01.14-19.55.41:795][726]BlueprintLog: Warning: Blueprint failed to compile:  bp_ch_hro_Taicho_Andrew
+[2020.01.14-19.55.41:908][726]LogCustomDialog: Dialog displayed:
+[2020.01.14-19.55.43:299][726]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2020.01.14-19.55.43:364][726]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 14, 2020, 7:55:43 AM)
+[2020.01.14-19.55.43:458][726]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.01.14-19.55.43:459][726]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.01.14-19.55.43:459][726]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.14-19.55.43:473][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013861s)
+[2020.01.14-19.55.43:474][726]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.14-19.55.43:474][726]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2020.01.14-19.55.43:474][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014994s)
+[2020.01.14-19.55.43:556][726]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.01.14-19.55.43:556][726]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.14-19.55.43:556][726]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.14-19.55.43:556][726]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.14-19.55.43:556][726]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.14-19.55.43:557][726]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.14-19.55.43:557][726]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.14-19.55.43:557][726]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.14-19.55.43:557][726]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.14-19.55.43:557][726]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.14-19.55.43:557][726]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.14-19.55.43:564][726]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.14-19.55.43:564][726]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2020.01.14-19.55.43:564][726]LogAudioMixer: Display: Is Default: Yes
+[2020.01.14-19.55.43:564][726]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.14-19.55.43:564][726]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.14-19.55.43:564][726]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.14-19.55.43:564][726]LogAudioMixer: Display: Channel Order:
+[2020.01.14-19.55.43:564][726]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.14-19.55.43:564][726]LogAudioMixer: Display: 1: FrontRight
+[2020.01.14-19.55.43:571][726]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2020.01.14-19.55.43:573][726]LogInit: FAudioDevice initialized.
+[2020.01.14-19.55.43:638][726]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.14-19.55.43:642][726]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.01.14-13.55.43
+[2020.01.14-19.55.43:762][726]LogWorld: Bringing up level for play took: 0.122452
+[2020.01.14-19.55.43:762][726]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.01.14-19.55.43:916][726]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.01.14-19.55.43:948][726]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 2.435
+[2020.01.14-19.55.43:948][726]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.14-19.55.44:300][727]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_00v.k_ch_hro_Taicho_atk_00v
+[2020.01.14-19.55.44:300][727]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_00v.k_ch_hro_Taicho_atk_00v
+[2020.01.14-19.55.44:640][754]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_00v.k_ch_hro_Taicho_atk_00v
+[2020.01.14-19.55.44:965][793]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_00v.k_ch_hro_Taicho_atk_00v
+[2020.01.14-19.55.47:956][152]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_00h.k_ch_hro_Taicho_atk_00h
+[2020.01.14-19.55.48:957][272]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_00h.k_ch_hro_Taicho_atk_00h
+[2020.01.14-19.55.49:498][337]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_00v.k_ch_hro_Taicho_atk_00v
+[2020.01.14-19.55.49:823][376]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_00v.k_ch_hro_Taicho_atk_00v
+[2020.01.14-19.55.50:348][439]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_00t.k_ch_hro_Taicho_atk_00t
+[2020.01.14-19.55.51:048][523]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_00t.k_ch_hro_Taicho_atk_00t
+[2020.01.14-19.56.15:640][474]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_00t.k_ch_hro_Taicho_atk_00t
+[2020.01.14-19.56.16:491][576]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_00t.k_ch_hro_Taicho_atk_00t
+[2020.01.14-19.56.17:774][730]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_00t.k_ch_hro_Taicho_atk_00t
+[2020.01.14-19.56.17:966][753]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_01.k_ch_hro_Taicho_atk_01
+[2020.01.14-19.56.18:108][770]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_02.k_ch_hro_Taicho_atk_02
+[2020.01.14-19.56.18:715][843]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_03t.k_ch_hro_Taicho_atk_03t
+[2020.01.14-19.56.18:741][846]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_04t.k_ch_hro_Taicho_atk_04t
+[2020.01.14-19.56.19:300][913]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_05v.k_ch_hro_Taicho_atk_05v
+[2020.01.14-19.56.19:791][972]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_06t.k_ch_hro_Taicho_atk_06t
+[2020.01.14-19.56.20:491][ 56]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_07t.k_ch_hro_Taicho_atk_07t
+[2020.01.14-19.56.20:491][ 56]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_07t.k_ch_hro_Taicho_atk_07t
+[2020.01.14-19.56.40:980][514]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-19.56.40:981][514]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.01.14-19.56.41:001][514]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.01.14-19.56.41:001][514]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.14-19.56.41:001][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-19.56.41:001][514]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.14-19.56.41:001][514]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-19.56.41:003][514]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-19.56.41:003][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-19.56.41:012][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.14-19.56.41:012][514]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.14-19.56.41:019][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-19.56.41:153][514]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-19.56.41:155][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-19.56.41:278][514]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.01.14-19.56.41:305][515]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.01.14-19.57.47:618][885]LogEditorTransaction: Undo Delete current selection
+[2020.01.14-19.57.48:032][885]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.14-19.57.48:046][885]LogEditorTransaction: Undo Delete current selection
+[2020.01.14-19.57.48:114][885]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.14-19.57.48:822][953]LogEditorTransaction: Undo Delete current selection
+[2020.01.14-19.57.48:892][953]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.14-19.57.49:698][ 46]LogEditorTransaction: Undo Move Node
+[2020.01.14-19.57.49:768][ 46]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.14-19.58.05:051][670]BlueprintLog: New page: Compile Warrior_ABP
+[2020.01.14-19.58.05:407][670]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.01.14-19.58.38:482][384]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/ch_hm_TaichoSensei/Warrior_Blendspace.Warrior_Blendspace
+[2020.01.14-19.58.38:945][384]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.14-19.58.38:986][384]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.14-19.58.39:648][384]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.14-19.59.02:840][859]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-19.59.02:840][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-19.59.02:941][859]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-19.59.02:941][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-19.59.15:866][261]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/ch_hm_TaichoSensei/Warrior_Blendspace.Warrior_Blendspace
+[2020.01.14-19.59.15:870][261]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.14-19.59.15:903][261]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.14-19.59.16:184][261]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.14-19.59.26:126][305]LogSavePackage: Moving '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Saved/Warrior_Blendspace45B5A31240E619669187E3B793A2DC66.tmp' to '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/ch_hm_TaichoSensei/Warrior_Blendspace.uasset'
+[2020.01.14-19.59.26:163][305]AssetCheck: New page: Asset Save: Warrior_Blendspace
+[2020.01.14-19.59.26:163][305]LogContentValidation: Display: Validating BlendSpace1D /Game/ch_hm_TaichoSensei/Warrior_Blendspace.Warrior_Blendspace
+[2020.01.14-19.59.28:813][570]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/ch_hm_TaichoSensei/Warrior_SprintBlendspace1.Warrior_SprintBlendspace1
+[2020.01.14-19.59.37:624][526]LogSavePackage: Moving '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Saved/Warrior_SprintBlendspace1411AE6AC4735EDA98920EB9653AEA04D.tmp' to '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/ch_hm_TaichoSensei/Warrior_SprintBlendspace1.uasset'
+[2020.01.14-19.59.37:656][526]AssetCheck: New page: Asset Save: Warrior_SprintBlendspace1
+[2020.01.14-19.59.37:656][526]LogContentValidation: Display: Validating BlendSpace1D /Game/ch_hm_TaichoSensei/Warrior_SprintBlendspace1.Warrior_SprintBlendspace1
+[2020.01.14-19.59.41:050][871]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-19.59.41:050][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-19.59.41:147][871]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-19.59.41:147][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-20.01.29:532][489]BlueprintLog: New page: Compile Warrior_BP
+[2020.01.14-20.01.29:951][489]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2020.01.14-20.02.54:306][535]BlueprintLog: New page: Compile Warrior_BP
+[2020.01.14-20.02.54:665][535]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2020.01.14-20.03.35:919][824]BlueprintLog: New page: Compile Warrior_ABP
+[2020.01.14-20.03.35:929][824]LogBlueprint: Warning: [Compiler Warrior_ABP] Walk to Run  will never be taken, please connect something to  Can Enter Transition
+[2020.01.14-20.03.35:929][824]LogBlueprint: Warning: [Compiler Warrior_ABP] Run to Walk  will never be taken, please connect something to  Can Enter Transition
+[2020.01.14-20.03.36:220][824]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2020.01.14-20.04.52:015][213]BlueprintLog: New page: Compile Warrior_ABP
+[2020.01.14-20.04.52:320][213]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2020.01.14-20.04.55:809][584]BlueprintLog: New page: Compile Warrior_BP
+[2020.01.14-20.04.56:112][584]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2020.01.14-20.05.04:733][489]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.14-20.05.04:754][489]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.14-20.05.04:754][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.14-20.05.04:754][489]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 14, 2020, 8:05:04 AM)
+[2020.01.14-20.05.04:754][489]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.14-20.05.04:765][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010769s)
+[2020.01.14-20.05.04:766][489]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.14-20.05.04:766][489]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2020.01.14-20.05.04:766][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011832s)
+[2020.01.14-20.05.04:829][489]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2020.01.14-20.05.04:830][489]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.14-20.05.04:830][489]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.14-20.05.04:830][489]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.14-20.05.04:830][489]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.14-20.05.04:830][489]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.14-20.05.04:830][489]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.14-20.05.04:830][489]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.14-20.05.04:830][489]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.14-20.05.04:830][489]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.14-20.05.04:830][489]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.14-20.05.04:838][489]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.14-20.05.04:838][489]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2020.01.14-20.05.04:838][489]LogAudioMixer: Display: Is Default: Yes
+[2020.01.14-20.05.04:838][489]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.14-20.05.04:838][489]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.14-20.05.04:838][489]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.14-20.05.04:838][489]LogAudioMixer: Display: Channel Order:
+[2020.01.14-20.05.04:838][489]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.14-20.05.04:838][489]LogAudioMixer: Display: 1: FrontRight
+[2020.01.14-20.05.04:845][489]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2020.01.14-20.05.04:846][489]LogInit: FAudioDevice initialized.
+[2020.01.14-20.05.04:851][489]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.14-20.05.04:854][489]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.01.14-14.05.04
+[2020.01.14-20.05.04:855][489]LogWorld: Bringing up level for play took: 0.002721
+[2020.01.14-20.05.04:855][489]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.01.14-20.05.04:859][489]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.654
+[2020.01.14-20.05.04:859][489]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.14-20.05.05:175][525]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_00v.k_ch_hro_Taicho_atk_00v
+[2020.01.14-20.05.05:500][564]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_00v.k_ch_hro_Taicho_atk_00v
+[2020.01.14-20.05.19:369][198]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-20.05.19:369][198]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-20.05.19:369][198]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.14-20.05.19:369][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-20.05.19:369][198]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.14-20.05.19:369][198]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-20.05.19:369][198]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-20.05.19:370][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-20.05.19:380][198]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.14-20.05.19:380][198]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.14-20.05.19:385][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-20.05.19:425][198]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-20.05.19:427][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-20.05.19:431][198]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.01.14-20.05.19:469][200]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.01.14-20.05.21:758][459]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/ch_hm_TaichoSensei/Warrior_Blendspace.Warrior_Blendspace
+[2020.01.14-20.05.21:761][459]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.14-20.05.21:826][459]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.14-20.05.22:104][459]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.14-20.05.31:775][406]LogSavePackage: Moving '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Saved/Warrior_SprintBlendspaceFE20632248E55C5D41C1B4B45F9C2C77.tmp' to '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/ch_hm_TaichoSensei/Warrior_SprintBlendspace.uasset'
+[2020.01.14-20.05.32:148][406]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.01.14-20.05.32:194][406]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.01.14-20.05.32:231][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.01.14-20.05.32:386][406]AssetCheck: New page: Asset Save: Warrior_SprintBlendspace
+[2020.01.14-20.05.32:387][406]LogContentValidation: Display: Validating BlendSpace1D /Game/ch_hm_TaichoSensei/Warrior_SprintBlendspace.Warrior_SprintBlendspace
+[2020.01.14-20.05.39:381][130]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-20.05.39:381][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-20.05.39:479][130]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-20.05.39:479][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-20.05.54:604][754]LogSlate: Took 0.022174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.01.14-20.06.14:693][906]BlueprintLog: New page: Compile Warrior_ABP
+[2020.01.14-20.06.14:995][906]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.01.14-20.06.15:898][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ch_hm_TaichoSensei/Warrior_ABP" FILE="../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/ch_hm_TaichoSensei/Warrior_ABP.uasset" SILENT=true
+[2020.01.14-20.06.16:012][  0]LogSavePackage: Moving '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Saved/Warrior_ABPC561902D49C5FEB840FC3BB283D88C7A.tmp' to '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/ch_hm_TaichoSensei/Warrior_ABP.uasset'
+[2020.01.14-20.06.16:029][  0]AssetCheck: New page: Asset Save: Warrior_ABP
+[2020.01.14-20.06.16:029][  0]LogContentValidation: Display: Validating AnimBlueprint /Game/ch_hm_TaichoSensei/Warrior_ABP.Warrior_ABP
+[2020.01.14-20.06.17:190][118]BlueprintLog: New page: Compile Warrior_BP
+[2020.01.14-20.06.17:497][118]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2020.01.14-20.06.17:878][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ch_hm_TaichoSensei/Warrior_BP" FILE="../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/ch_hm_TaichoSensei/Warrior_BP.uasset" SILENT=true
+[2020.01.14-20.06.18:044][134]LogSavePackage: Moving '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Saved/Warrior_BP4133B6DD4ED928F32DDEBA9B2BC21DCF.tmp' to '../../../../Unreal_Projects/GitRepo/CombatSimulator_Prat/CombatSim/Content/ch_hm_TaichoSensei/Warrior_BP.uasset'
+[2020.01.14-20.06.18:086][134]AssetCheck: New page: Asset Save: Warrior_BP
+[2020.01.14-20.06.18:086][134]LogContentValidation: Display: Validating Blueprint /Game/ch_hm_TaichoSensei/Warrior_BP.Warrior_BP
+[2020.01.14-20.06.19:507][300]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.14-20.06.19:529][300]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.14-20.06.19:529][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.14-20.06.19:529][300]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 14, 2020, 8:06:19 AM)
+[2020.01.14-20.06.19:529][300]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.14-20.06.19:540][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010936s)
+[2020.01.14-20.06.19:541][300]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.14-20.06.19:541][300]LogPlayLevel: PIE: World Init took: (0.000988s)
+[2020.01.14-20.06.19:541][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012055s)
+[2020.01.14-20.06.19:619][300]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2020.01.14-20.06.19:620][300]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.14-20.06.19:620][300]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.14-20.06.19:620][300]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.14-20.06.19:620][300]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.14-20.06.19:620][300]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.14-20.06.19:620][300]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.14-20.06.19:620][300]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.14-20.06.19:620][300]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.14-20.06.19:621][300]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.14-20.06.19:621][300]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.14-20.06.19:628][300]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.14-20.06.19:628][300]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2020.01.14-20.06.19:628][300]LogAudioMixer: Display: Is Default: Yes
+[2020.01.14-20.06.19:628][300]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.14-20.06.19:628][300]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.14-20.06.19:628][300]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.14-20.06.19:628][300]LogAudioMixer: Display: Channel Order:
+[2020.01.14-20.06.19:628][300]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.14-20.06.19:628][300]LogAudioMixer: Display: 1: FrontRight
+[2020.01.14-20.06.19:635][300]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2020.01.14-20.06.19:636][300]LogInit: FAudioDevice initialized.
+[2020.01.14-20.06.19:645][300]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.14-20.06.19:648][300]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.01.14-14.06.19
+[2020.01.14-20.06.19:649][300]LogWorld: Bringing up level for play took: 0.002701
+[2020.01.14-20.06.19:649][300]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.01.14-20.06.19:652][300]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.139
+[2020.01.14-20.06.19:653][300]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.14-20.06.19:862][323]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_00v.k_ch_hro_Taicho_atk_00v
+[2020.01.14-20.06.20:187][362]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_00v.k_ch_hro_Taicho_atk_00v
+[2020.01.14-20.06.21:762][551]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_00v.k_ch_hro_Taicho_atk_00v
+[2020.01.14-20.06.22:088][590]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_00v.k_ch_hro_Taicho_atk_00v
+[2020.01.14-20.06.40:872][844]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_00h.k_ch_hro_Taicho_atk_00h
+[2020.01.14-20.06.41:313][897]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_00h.k_ch_hro_Taicho_atk_00h
+[2020.01.14-20.06.41:588][930]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_00h.k_ch_hro_Taicho_atk_00h
+[2020.01.14-20.06.41:755][950]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_01h.k_ch_hro_Taicho_atk_01h
+[2020.01.14-20.06.42:030][983]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_02h.k_ch_hro_Taicho_atk_02h
+[2020.01.14-20.06.42:530][ 43]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_03v.k_ch_hro_Taicho_atk_03v
+[2020.01.14-20.06.42:680][ 61]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_03v.k_ch_hro_Taicho_atk_03v
+[2020.01.14-20.06.43:313][137]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_00h.k_ch_hro_Taicho_atk_00h
+[2020.01.14-20.06.43:597][171]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_00h.k_ch_hro_Taicho_atk_00h
+[2020.01.14-20.06.43:764][191]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_01h.k_ch_hro_Taicho_atk_01h
+[2020.01.14-20.06.44:039][224]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_02h.k_ch_hro_Taicho_atk_02h
+[2020.01.14-20.06.44:514][281]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_03.k_ch_hro_Taicho_atk_03
+[2020.01.14-20.06.44:746][309]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_03.k_ch_hro_Taicho_atk_03
+[2020.01.14-20.06.59:622][ 94]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ch_hm_TaichoSensei/new_attacks/k_ch_hro_Taicho_atk_00h.k_ch_hro_Taicho_atk_00h
+[2020.01.14-20.07.04:131][635]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-20.07.04:131][635]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-20.07.04:131][635]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.14-20.07.04:131][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-20.07.04:131][635]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.14-20.07.04:131][635]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-20.07.04:132][635]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-20.07.04:133][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-20.07.04:140][635]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.14-20.07.04:140][635]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.14-20.07.04:147][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-20.07.04:181][635]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-20.07.04:184][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-20.07.04:188][635]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.01.14-20.07.04:237][638]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.01.14-20.07.42:118][548]LogUObjectArray: Warning: Invalid object index 7077985
+[2020.01.14-20.07.42:215][548]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.01.14-20.07.42:464][548]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.248 s
+[2020.01.14-20.07.42:464][548]LogOutputDevice: Error: === Handled ensure: ===
+[2020.01.14-20.07.42:464][548]LogOutputDevice: Error: 
+[2020.01.14-20.07.42:464][548]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1165]
+[2020.01.14-20.07.42:464][548]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.01.14-20.07.42:464][548]LogOutputDevice: Error: Stack: 
+[2020.01.14-20.07.42:464][548]LogOutputDevice: Error: [Callstack] 0x00007ff8e11c6cd9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.14-20.07.42:464][548]LogOutputDevice: Error: [Callstack] 0x00007ff8e09d693a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.14-20.07.42:465][548]LogOutputDevice: Error: [Callstack] 0x00007ff8e09e424f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.14-20.07.42:465][548]LogOutputDevice: Error: [Callstack] 0x00007ff8d502bd31 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.01.14-20.07.42:465][548]LogOutputDevice: Error: [Callstack] 0x00007ff8d42c977a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.01.14-20.07.42:465][548]LogOutputDevice: Error: [Callstack] 0x00007ff8d4281647 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.01.14-20.07.42:465][548]LogOutputDevice: Error: [Callstack] 0x00007ff8e19eb144 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.14-20.07.42:465][548]LogOutputDevice: Error: [Callstack] 0x00007ff8e1bddc63 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.14-20.07.42:465][548]LogOutputDevice: Error: [Callstack] 0x00007ff8e1a360b3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.14-20.07.42:465][548]LogOutputDevice: Error: [Callstack] 0x00007ff8e1a146f9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.14-20.07.42:465][548]LogOutputDevice: Error: [Callstack] 0x00007ff8e1a08ce2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.14-20.07.42:465][548]LogOutputDevice: Error: [Callstack] 0x00007ff91f1c4ae7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.14-20.07.42:465][548]LogOutputDevice: Error: [Callstack] 0x00007ff91f1b242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.14-20.07.42:465][548]LogOutputDevice: Error: [Callstack] 0x00007ff91f1c7195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.14-20.07.42:465][548]LogOutputDevice: Error: [Callstack] 0x00007ff91f1aec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.14-20.07.42:465][548]LogOutputDevice: Error: [Callstack] 0x00007ff9626163ed USER32.dll!UnknownFunction []
+[2020.01.14-20.07.42:465][548]LogOutputDevice: Error: [Callstack] 0x00007ff962615de2 USER32.dll!UnknownFunction []
+[2020.01.14-20.07.42:465][548]LogOutputDevice: Error: [Callstack] 0x00007ff91f1c8699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.14-20.07.42:465][548]LogOutputDevice: Error: [Callstack] 0x00007ff6b9476db0 UE4Editor.exe!UnknownFunction []
+[2020.01.14-20.07.42:465][548]LogOutputDevice: Error: [Callstack] 0x00007ff6b948c3ec UE4Editor.exe!UnknownFunction []
+[2020.01.14-20.07.42:465][548]LogOutputDevice: Error: [Callstack] 0x00007ff6b948c4ca UE4Editor.exe!UnknownFunction []
+[2020.01.14-20.07.42:465][548]LogOutputDevice: Error: [Callstack] 0x00007ff6b949ceae UE4Editor.exe!UnknownFunction []
+[2020.01.14-20.07.42:465][548]LogOutputDevice: Error: [Callstack] 0x00007ff6b949fcbe UE4Editor.exe!UnknownFunction []
+[2020.01.14-20.07.42:465][548]LogOutputDevice: Error: [Callstack] 0x00007ff962a97bd4 KERNEL32.DLL!UnknownFunction []
+[2020.01.14-20.07.42:465][548]LogOutputDevice: Error: [Callstack] 0x00007ff963c4ced1 ntdll.dll!UnknownFunction []
+[2020.01.14-20.07.42:465][548]LogOutputDevice: Error: 
+[2020.01.14-20.07.42:513][548]LogStats:                SubmitErrorReport -  0.000 s
